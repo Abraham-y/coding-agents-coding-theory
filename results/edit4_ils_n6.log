@@ -1,0 +1,7 @@
+seed 13: size=111 iters=500479 verify=True
+seed 15: size=111 iters=501983 verify=True
+seed 10: size=110 iters=506976 verify=True
+seed 12: size=110 iters=502414 verify=True
+seed 14: size=110 iters=502957 verify=True
+seed 11: size=109 iters=501471 verify=True
+BEST RAW: 111  (published best known: 113)  wall=1501s

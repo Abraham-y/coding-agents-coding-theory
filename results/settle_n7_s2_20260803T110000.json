@@ -1,0 +1,23 @@
+{
+  "method": "set-packing MILP via HiGHS (scipy.optimize.milp)",
+  "n": 7,
+  "s": 2,
+  "vars": 128,
+  "constraints": 32,
+  "time_limit": 120.0,
+  "status": 0,
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "elapsed_seconds": 0.02,
+  "solver_bound_uncertified": 5.0,
+  "size": 5,
+  "verify": true,
+  "verify2": true,
+  "words": [
+    "0000000",
+    "0011110",
+    "0101001",
+    "1110000",
+    "1111111"
+  ],
+  "artifact": "<REPO>/best/n7_s2_size5_milp.txt"
+}

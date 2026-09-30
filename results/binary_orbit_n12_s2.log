@@ -1,0 +1,6 @@
+A_2(12): 4096 vertices, 1460525 edges; target 37
+  comp=True rev=True (|G|=4): 338 usable orbits  best   34  seeds [34, 34, 34, 34, 34, 34, 34, 34]  verified=True 
+  comp=True rev=False (|G|=2): 2011 usable orbits  best   36  seeds [36, 36, 36, 36, 36, 36, 36, 36]  verified=True 
+  comp=False rev=True (|G|=2): 1156 usable orbits  best   36  seeds [36, 35, 35, 35, 35, 35, 35, 35]  verified=True 
+
+best 36  target 37

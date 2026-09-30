@@ -1,0 +1,5 @@
+class 12: |H|=8 DIAG 142 usable, 10011 edges, sizes {4: 142}, next>11: 12, build 0s  |H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev
+  by seed [4, 4]  (iters best seed 2148288)
+  best 4  verify_edit4=True size=4   lev-bad-pairs=0
+
+best overall 4  record 11  log <REPO>/results/edit4_cmis_n9_n9d7c12_20260908T101208.json

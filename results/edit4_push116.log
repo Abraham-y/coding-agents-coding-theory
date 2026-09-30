@@ -1,0 +1,4 @@
+C4_product: seeds=[116, 112, 112, 112, 112, 112, 112, 112, 112, 112] best=116 verify=True minLev=3
+   saved best/edit4_n6_C4_product_size116.txt  sha256=7068739a82ef8eab50530304b5687aa61ccacb398263b68c8ae3ae2ae7eacdf4
+C4_diagonal: seeds=[116, 112, 112, 112, 112, 112, 112, 112, 112, 112] best=116 verify=True minLev=3
+   saved best/edit4_n6_C4_diagonal_size116.txt  sha256=d9f49066a949b4ab4a6a3def6f0d5fb9ec58c9f822e12b12cef543b89b907757

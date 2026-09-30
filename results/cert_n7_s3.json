@@ -1,0 +1,1 @@
+{"method": "LP duality, HiGHS proposal rounded and repaired exactly", "n": 7, "s": 3, "cuts": false, "denominator": 100000, "float_lp_objective": 2.0, "bound": [2, 1], "certified_upper_bound": 2, "y": [[1, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [1, 1]]}

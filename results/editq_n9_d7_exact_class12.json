@@ -1,0 +1,11 @@
+{
+  "graph": "graphs/editq_n9_d7_orbit_class12.txt",
+  "k": 142,
+  "m": 10011,
+  "optimum_weight": 4,
+  "selected": [
+    141
+  ],
+  "seconds": 0.0,
+  "violations": 0
+}

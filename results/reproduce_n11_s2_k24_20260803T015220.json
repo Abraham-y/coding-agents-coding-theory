@@ -1,0 +1,12 @@
+{
+  "method": "SAT via clique-cover AtMost1 + AtLeast-k cardinality",
+  "solver": "Cadical153",
+  "n": 11,
+  "s": 2,
+  "k": 24,
+  "symmetry": null,
+  "clauses": 2219521,
+  "build_seconds": 4.4,
+  "solve_seconds": 462.45,
+  "verdict": "UNKNOWN (budget exhausted)"
+}

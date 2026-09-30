@@ -1,0 +1,14 @@
+{
+  "cell": "raw 4096-vertex (unrestricted)",
+  "operator": "repo ILS",
+  "core_minutes": 180.0,
+  "by_seed": [
+    111,
+    109,
+    109,
+    109
+  ],
+  "best": 111,
+  "redumis_same_graph": 113,
+  "elapsed_seconds": 2741.3
+}

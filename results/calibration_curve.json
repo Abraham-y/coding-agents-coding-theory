@@ -1,0 +1,41 @@
+{
+  "cell": "trivial (unrestricted)",
+  "operator": "repaired",
+  "points": [
+    {
+      "core_minutes": 6.0,
+      "best": 109,
+      "seeds": 3,
+      "seconds": 120.0
+    },
+    {
+      "core_minutes": 15.0,
+      "best": 109,
+      "seeds": 3,
+      "seconds": 300.0
+    },
+    {
+      "core_minutes": 20.0,
+      "best": 109,
+      "seeds": 4,
+      "seconds": 300.0
+    },
+    {
+      "core_minutes": 60.0,
+      "best": 110,
+      "seeds": 4,
+      "seconds": 900.0
+    }
+  ],
+  "broken_operator_reference": {
+    "core_minutes": 6.0,
+    "best": 99
+  },
+  "repo_ils_reference": {
+    "core_minutes": 150.0,
+    "best": 111
+  },
+  "kamis_reference": {
+    "best": 113
+  }
+}

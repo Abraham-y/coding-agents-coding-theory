@@ -1,0 +1,52 @@
+{
+  "n": 7,
+  "target": 356,
+  "classes": [
+    {
+      "order": 8,
+      "orbits": 2144,
+      "usable": 736,
+      "words_available": 5612,
+      "best": 284,
+      "verified": true,
+      "seeds": [
+        1,
+        2,
+        3
+      ],
+      "seconds_per_seed": 180.0,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev"
+    },
+    {
+      "order": 8,
+      "orbits": 2080,
+      "usable": 1270,
+      "words_available": 9916,
+      "best": 340,
+      "verified": true,
+      "seeds": [
+        1,
+        2,
+        3
+      ],
+      "seconds_per_seed": 180.0,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev"
+    },
+    {
+      "order": 16,
+      "orbits": 1072,
+      "usable": 246,
+      "words_available": 3676,
+      "best": 264,
+      "verified": true,
+      "seeds": [
+        1,
+        2,
+        3
+      ],
+      "seconds_per_seed": 180.0,
+      "name": "|H|=16 product [proj|S4|=8, rev] gen~(0, 1, 2, 3)+rev"
+    }
+  ],
+  "elapsed_seconds": 7302.4
+}

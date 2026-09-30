@@ -1,0 +1,1 @@
+{"method": "Lovasz theta SDP on DIMACS graph, dual certified in exact rationals", "graph": "1zc.128.txt", "vertices": 128, "edges": 1120, "theta_float_untrusted": 20.666594089048704, "elapsed_seconds": 2.29}

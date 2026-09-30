@@ -1,0 +1,29 @@
+[
+  {
+    "order": 8,
+    "orbits": 560,
+    "usable": 59,
+    "words_available": 388,
+    "best": 40,
+    "verified": true,
+    "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev"
+  },
+  {
+    "order": 8,
+    "orbits": 544,
+    "usable": 211,
+    "words_available": 1444,
+    "best": 104,
+    "verified": true,
+    "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev"
+  },
+  {
+    "order": 16,
+    "orbits": 288,
+    "usable": 20,
+    "words_available": 132,
+    "best": 40,
+    "verified": true,
+    "name": "|H|=16 product [proj|S4|=8, rev] gen~(0, 1, 2, 3)+rev"
+  }
+]

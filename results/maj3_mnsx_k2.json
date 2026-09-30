@@ -1,0 +1,42 @@
+{
+  "source": "transcription of arXiv:1309.7565v1 Appendix A",
+  "k": 2,
+  "alpha_str": "24/7",
+  "alpha_numerator": 24,
+  "alpha_denominator": 7,
+  "published": "24/7",
+  "matches_published": true,
+  "stable_config_counts": [
+    2,
+    3,
+    8
+  ],
+  "base_float_display_only": 2.540061724867322,
+  "elapsed_seconds": 0.0,
+  "iterations": [
+    {
+      "iter": 1,
+      "alpha": "9/4",
+      "ot_last": [
+        36,
+        324
+      ]
+    },
+    {
+      "iter": 2,
+      "alpha": "53/16",
+      "ot_last": [
+        16,
+        212
+      ]
+    },
+    {
+      "iter": 3,
+      "alpha": "24/7",
+      "ot_last": [
+        14,
+        192
+      ]
+    }
+  ]
+}

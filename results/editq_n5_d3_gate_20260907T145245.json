@@ -1,0 +1,762 @@
+{
+  "n": 5,
+  "d": 3,
+  "table_lb": 44,
+  "table_ub": 44,
+  "engine": "search/mis_ils.c",
+  "seeds": 3,
+  "seconds": 10.0,
+  "cells": [
+    {
+      "class_index": 0,
+      "name": "|H|=48 product [proj|S4|=24, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 48,
+      "diagonal": false,
+      "orbits_usable": 1,
+      "orbit_edges": 0,
+      "orbit_sizes": {
+        "4": 1
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 1,
+      "name": "|H|=24 product [proj|S4|=12, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 24,
+      "diagonal": false,
+      "orbits_usable": 3,
+      "orbit_edges": 1,
+      "orbit_sizes": {
+        "4": 1,
+        "12": 2
+      },
+      "by_seed": [
+        16,
+        16,
+        16
+      ],
+      "best": 16,
+      "verified": true,
+      "size": 16,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 2,
+      "name": "|H|=24 product [proj|S4|=24] gen~(0, 1, 3, 2)",
+      "order": 24,
+      "diagonal": false,
+      "orbits_usable": 1,
+      "orbit_edges": 0,
+      "orbit_sizes": {
+        "4": 1
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 3,
+      "name": "|H|=24 DIAGONAL [proj|S4|=24] gen~(0, 1, 3, 2)+rev",
+      "order": 24,
+      "diagonal": true,
+      "orbits_usable": 5,
+      "orbit_edges": 6,
+      "orbit_sizes": {
+        "4": 1,
+        "12": 4
+      },
+      "by_seed": [
+        16,
+        16,
+        16
+      ],
+      "best": 16,
+      "verified": true,
+      "size": 16,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 4,
+      "name": "|H|=16 product [proj|S4|=8, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 16,
+      "diagonal": false,
+      "orbits_usable": 3,
+      "orbit_edges": 3,
+      "orbit_sizes": {
+        "4": 3
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 5,
+      "name": "|H|=12 product [proj|S4|=12] gen~(0, 2, 3, 1)",
+      "order": 12,
+      "diagonal": false,
+      "orbits_usable": 39,
+      "orbit_edges": 655,
+      "orbit_sizes": {
+        "4": 1,
+        "12": 38
+      },
+      "by_seed": [
+        28,
+        28,
+        28
+      ],
+      "best": 28,
+      "verified": true,
+      "size": 28,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 6,
+      "name": "|H|=12 product [proj|S4|=6, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 12,
+      "diagonal": false,
+      "orbits_usable": 7,
+      "orbit_edges": 7,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 2,
+        "3": 4
+      },
+      "by_seed": [
+        16,
+        16,
+        16
+      ],
+      "best": 16,
+      "verified": true,
+      "size": 16,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 7,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 6,
+      "orbit_edges": 6,
+      "orbit_sizes": {
+        "2": 6
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 8,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 25,
+      "orbit_edges": 162,
+      "orbit_sizes": {
+        "4": 13,
+        "8": 12
+      },
+      "by_seed": [
+        24,
+        24,
+        24
+      ],
+      "best": 24,
+      "verified": true,
+      "size": 24,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 9,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 55,
+      "orbit_edges": 879,
+      "orbit_sizes": {
+        "4": 15,
+        "8": 40
+      },
+      "by_seed": [
+        36,
+        36,
+        36
+      ],
+      "best": 36,
+      "verified": true,
+      "size": 36,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.75,
+      "wall_seconds": 5.5
+    },
+    {
+      "class_index": 10,
+      "name": "|H|=8 product [proj|S4|=8] gen~(0, 1, 3, 2)",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 15,
+      "orbit_edges": 105,
+      "orbit_sizes": {
+        "4": 15
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 11,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 15,
+      "orbit_edges": 105,
+      "orbit_sizes": {
+        "4": 15
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 12,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 55,
+      "orbit_edges": 925,
+      "orbit_sizes": {
+        "4": 15,
+        "8": 40
+      },
+      "by_seed": [
+        32,
+        32,
+        32
+      ],
+      "best": 32,
+      "verified": true,
+      "size": 32,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.75,
+      "wall_seconds": 5.5
+    },
+    {
+      "class_index": 13,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 27,
+      "orbit_edges": 203,
+      "orbit_sizes": {
+        "4": 13,
+        "8": 14
+      },
+      "by_seed": [
+        24,
+        24,
+        24
+      ],
+      "best": 24,
+      "verified": true,
+      "size": 24,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 14,
+      "name": "|H|=6 product [proj|S4|=3, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 6,
+      "diagonal": false,
+      "orbits_usable": 83,
+      "orbit_edges": 1741,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 64,
+        "3": 18
+      },
+      "by_seed": [
+        40,
+        40,
+        40
+      ],
+      "best": 40,
+      "verified": true,
+      "size": 40,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 4.15,
+      "wall_seconds": 8.3
+    },
+    {
+      "class_index": 15,
+      "name": "|H|=6 product [proj|S4|=6] gen~(0, 1, 3, 2)",
+      "order": 6,
+      "diagonal": false,
+      "orbits_usable": 26,
+      "orbit_edges": 125,
+      "orbit_sizes": {
+        "1": 1,
+        "3": 16,
+        "6": 9
+      },
+      "by_seed": [
+        16,
+        16,
+        16
+      ],
+      "best": 16,
+      "verified": true,
+      "size": 16,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 16,
+      "name": "|H|=6 DIAGONAL [proj|S4|=6] gen~(0, 1, 3, 2)+rev",
+      "order": 6,
+      "diagonal": true,
+      "orbits_usable": 54,
+      "orbit_edges": 668,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 33,
+        "3": 20
+      },
+      "by_seed": [
+        28,
+        28,
+        28
+      ],
+      "best": 28,
+      "verified": true,
+      "size": 28,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 2.7,
+      "wall_seconds": 5.4
+    },
+    {
+      "class_index": 17,
+      "name": "|H|=4 product [proj|S4|=2, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 59,
+      "orbit_edges": 542,
+      "orbit_sizes": {
+        "1": 8,
+        "2": 19,
+        "4": 32
+      },
+      "by_seed": [
+        26,
+        26,
+        26
+      ],
+      "best": 26,
+      "verified": true,
+      "size": 26,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 2.95,
+      "wall_seconds": 5.9
+    },
+    {
+      "class_index": 18,
+      "name": "|H|=4 product [proj|S4|=2, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 114,
+      "orbit_edges": 2366,
+      "orbit_sizes": {
+        "2": 30,
+        "4": 84
+      },
+      "by_seed": [
+        42,
+        42,
+        42
+      ],
+      "best": 42,
+      "verified": true,
+      "size": 42,
+      "next_attainable_above_lb": 46,
+      "seconds_per_seed": 5.7,
+      "wall_seconds": 11.4
+    },
+    {
+      "class_index": 19,
+      "name": "|H|=4 product [proj|S4|=4] gen~(0, 1, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 30,
+      "orbit_edges": 210,
+      "orbit_sizes": {
+        "2": 30
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": 46,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.0
+    },
+    {
+      "class_index": 20,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 253,
+      "orbit_edges": 15330,
+      "orbit_sizes": {
+        "4": 253
+      },
+      "by_seed": [
+        44,
+        44,
+        44
+      ],
+      "best": 44,
+      "verified": true,
+      "size": 44,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    },
+    {
+      "class_index": 21,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 253,
+      "orbit_edges": 15284,
+      "orbit_sizes": {
+        "4": 253
+      },
+      "by_seed": [
+        44,
+        44,
+        44
+      ],
+      "best": 44,
+      "verified": true,
+      "size": 44,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    },
+    {
+      "class_index": 22,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(0, 1, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 76,
+      "orbit_edges": 1189,
+      "orbit_sizes": {
+        "2": 16,
+        "4": 60
+      },
+      "by_seed": [
+        28,
+        28,
+        28
+      ],
+      "best": 28,
+      "verified": true,
+      "size": 28,
+      "next_attainable_above_lb": 46,
+      "seconds_per_seed": 3.8,
+      "wall_seconds": 7.6
+    },
+    {
+      "class_index": 23,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(0, 1, 3, 2)+rev",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 114,
+      "orbit_edges": 2460,
+      "orbit_sizes": {
+        "2": 30,
+        "4": 84
+      },
+      "by_seed": [
+        34,
+        34,
+        34
+      ],
+      "best": 34,
+      "verified": true,
+      "size": 34,
+      "next_attainable_above_lb": 46,
+      "seconds_per_seed": 5.7,
+      "wall_seconds": 11.4
+    },
+    {
+      "class_index": 24,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 147,
+      "orbit_edges": 5189,
+      "orbit_sizes": {
+        "4": 147
+      },
+      "by_seed": [
+        36,
+        36,
+        36
+      ],
+      "best": 36,
+      "verified": true,
+      "size": 36,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 7.35,
+      "wall_seconds": 14.7
+    },
+    {
+      "class_index": 25,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 251,
+      "orbit_edges": 14071,
+      "orbit_sizes": {
+        "4": 251
+      },
+      "by_seed": [
+        44,
+        44,
+        44
+      ],
+      "best": 44,
+      "verified": true,
+      "size": 44,
+      "next_attainable_above_lb": 48,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    },
+    {
+      "class_index": 26,
+      "name": "|H|=3 product [proj|S4|=3] gen~(0, 2, 3, 1)",
+      "order": 3,
+      "diagonal": false,
+      "orbits_usable": 295,
+      "orbit_edges": 15527,
+      "orbit_sizes": {
+        "1": 1,
+        "3": 294
+      },
+      "by_seed": [
+        43,
+        43,
+        43
+      ],
+      "best": 43,
+      "verified": true,
+      "size": 43,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    },
+    {
+      "class_index": 27,
+      "name": "|H|=2 product [proj|S4|=1, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 2,
+      "diagonal": false,
+      "orbits_usable": 316,
+      "orbit_edges": 10128,
+      "orbit_sizes": {
+        "1": 64,
+        "2": 252
+      },
+      "by_seed": [
+        42,
+        42,
+        42
+      ],
+      "best": 42,
+      "verified": true,
+      "size": 42,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    },
+    {
+      "class_index": 28,
+      "name": "|H|=2 product [proj|S4|=2] gen~(0, 1, 3, 2)",
+      "order": 2,
+      "diagonal": false,
+      "orbits_usable": 271,
+      "orbit_edges": 9682,
+      "orbit_sizes": {
+        "1": 32,
+        "2": 239
+      },
+      "by_seed": [
+        30,
+        30,
+        30
+      ],
+      "best": 30,
+      "verified": true,
+      "size": 30,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 915.8
+    },
+    {
+      "class_index": 29,
+      "name": "|H|=2 product [proj|S4|=2] gen~(1, 0, 3, 2)",
+      "order": 2,
+      "diagonal": false,
+      "orbits_usable": 510,
+      "orbit_edges": 31946,
+      "orbit_sizes": {
+        "2": 510
+      },
+      "by_seed": [
+        44,
+        44,
+        44
+      ],
+      "best": 44,
+      "verified": true,
+      "size": 44,
+      "next_attainable_above_lb": 46,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.1
+    },
+    {
+      "class_index": 30,
+      "name": "|H|=2 DIAGONAL [proj|S4|=2] gen~(0, 1, 3, 2)+rev",
+      "order": 2,
+      "diagonal": true,
+      "orbits_usable": 355,
+      "orbit_edges": 14492,
+      "orbit_sizes": {
+        "1": 32,
+        "2": 323
+      },
+      "by_seed": [
+        39,
+        39,
+        39
+      ],
+      "best": 39,
+      "verified": true,
+      "size": 39,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    },
+    {
+      "class_index": 31,
+      "name": "|H|=2 DIAGONAL [proj|S4|=2] gen~(1, 0, 3, 2)+rev",
+      "order": 2,
+      "diagonal": true,
+      "orbits_usable": 394,
+      "orbit_edges": 19082,
+      "orbit_sizes": {
+        "2": 394
+      },
+      "by_seed": [
+        42,
+        42,
+        42
+      ],
+      "best": 42,
+      "verified": true,
+      "size": 42,
+      "next_attainable_above_lb": 46,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 920.9
+    },
+    {
+      "class_index": 32,
+      "name": "|H|=1 product [proj|S4|=1] gen~(0, 1, 2, 3)",
+      "order": 1,
+      "diagonal": false,
+      "orbits_usable": 1024,
+      "orbit_edges": 65190,
+      "orbit_sizes": {
+        "1": 1024
+      },
+      "by_seed": [
+        44,
+        44,
+        44
+      ],
+      "best": 44,
+      "verified": true,
+      "size": 44,
+      "next_attainable_above_lb": 45,
+      "seconds_per_seed": 10.0,
+      "wall_seconds": 20.0
+    }
+  ],
+  "elapsed_seconds": 2138.6
+}

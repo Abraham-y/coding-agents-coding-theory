@@ -1,0 +1,24 @@
+G(7,1): 128 vertices, 1471 edges
+float theta (NOT a result, NOT floorable): 16.841949
+certified exact dual value : 337039/20000 (= 16.851950)
+CERTIFIED: A_1(7) <= 16
+elapsed 500.24s  log <REPO>/results/theta_n7_s1.json
+PASS OK: A_1(7) <= 16 (exact t = 337039/20000)
+G(8,2): 256 vertices, 17183 edges
+float theta (NOT a result, NOT floorable): 7.461844
+certified exact dual value : 1494369/200000 (= 7.471845)
+CERTIFIED: A_2(8) <= 7
+elapsed 1553.01s  log <REPO>/results/theta_n8_s2.json
+PASS OK: A_2(8) <= 7 (exact t = 1494369/200000)
+G(9,2): 512 vertices, 54895 edges
+float theta (NOT a result, NOT floorable): 11.768925
+certified exact dual value : 471157/40000 (= 11.778925)
+CERTIFIED: A_2(9) <= 11
+elapsed 58155.79s  log <REPO>/results/theta_n9_s2.json
+PASS OK: A_2(9) <= 11 (exact t = 471157/40000)
+G(9,1): 512 vertices, 9727 edges
+float theta (NOT a result, NOT floorable): 53.030553
+certified exact dual value : 26520277/500000 (= 53.040554)
+CERTIFIED: A_1(9) <= 53
+elapsed 35530.85s  log <REPO>/results/theta_n9_s1.json
+PASS OK: A_1(9) <= 53 (exact t = 26520277/500000)

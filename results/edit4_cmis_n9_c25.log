@@ -1,0 +1,7 @@
+class 25: |H|=4 DIAG 65531 usable, 15241337 edges, sizes {4: 65531}, next>3451: 3452, build 0s  |H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)
+  by seed [3692, 3668]  (iters best seed 393920)
+  best 3692  verify_edit4=True size=3692   lev-bad-pairs=0
+  *** 3692 > record 3451: saved <REPO>/best/edit4_n9_cmis_size3692_class25.txt sha256=a7e69dec0cb61f9a8e4a7e770a0e5d69aabf19d7a6e3cf20ec3d73893537c77b
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 3692  record 3451  log <REPO>/results/edit4_cmis_n9_n9c25_20260908T174112.json

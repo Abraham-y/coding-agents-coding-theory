@@ -1,0 +1,554 @@
+{
+  "n": 7,
+  "target": 356,
+  "seeds": 8,
+  "seconds": 900.0,
+  "cells": [
+    {
+      "name": "|H|=1 product [proj|S4|=1] gen~(0, 1, 2, 3)",
+      "usable": 16384,
+      "next_gain": 357,
+      "best": 349,
+      "by_seed": [
+        349,
+        344,
+        343,
+        343,
+        338,
+        338,
+        338,
+        334
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=2 product [proj|S4|=1, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 6844,
+      "next_gain": 357,
+      "best": 354,
+      "by_seed": [
+        354,
+        348,
+        345,
+        344,
+        344,
+        343,
+        342,
+        342
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=2 product [proj|S4|=2] gen~(0, 1, 3, 2)",
+      "usable": 6335,
+      "next_gain": 357,
+      "best": 316,
+      "by_seed": [
+        316,
+        316,
+        312,
+        312,
+        312,
+        311,
+        310,
+        308
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=2 DIAGONAL [proj|S4|=2] gen~(0, 1, 3, 2)+rev",
+      "usable": 7187,
+      "next_gain": 357,
+      "best": 345,
+      "by_seed": [
+        345,
+        344,
+        344,
+        344,
+        339,
+        338,
+        338,
+        337
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=3 product [proj|S4|=3] gen~(0, 2, 3, 1)",
+      "usable": 5362,
+      "next_gain": 357,
+      "best": 346,
+      "by_seed": [
+        346,
+        343,
+        343,
+        340,
+        340,
+        337,
+        337,
+        337
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 product [proj|S4|=2, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 2371,
+      "next_gain": 357,
+      "best": 317,
+      "by_seed": [
+        317,
+        317,
+        317,
+        315,
+        313,
+        311,
+        309,
+        307
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=6 product [proj|S4|=3, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 2218,
+      "next_gain": 357,
+      "best": 352,
+      "by_seed": [
+        352,
+        349,
+        349,
+        346,
+        346,
+        343,
+        343,
+        340
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=6 product [proj|S4|=6] gen~(0, 1, 3, 2)",
+      "usable": 1222,
+      "next_gain": 357,
+      "best": 268,
+      "by_seed": [
+        268,
+        262,
+        262,
+        262,
+        262,
+        262,
+        256,
+        256
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=6 DIAGONAL [proj|S4|=6] gen~(0, 1, 3, 2)+rev",
+      "usable": 1818,
+      "next_gain": 357,
+      "best": 337,
+      "by_seed": [
+        337,
+        334,
+        331,
+        328,
+        328,
+        325,
+        325,
+        322
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=12 product [proj|S4|=6, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 339,
+      "next_gain": 357,
+      "best": 259,
+      "by_seed": [
+        259,
+        259,
+        259,
+        259,
+        259,
+        259,
+        259,
+        259
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=2 product [proj|S4|=2] gen~(1, 0, 3, 2)",
+      "usable": 8190,
+      "next_gain": 358,
+      "best": 348,
+      "by_seed": [
+        348,
+        344,
+        344,
+        342,
+        340,
+        340,
+        338,
+        338
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=2 DIAGONAL [proj|S4|=2] gen~(1, 0, 3, 2)+rev",
+      "usable": 7530,
+      "next_gain": 358,
+      "best": 342,
+      "by_seed": [
+        342,
+        340,
+        340,
+        340,
+        338,
+        336,
+        336,
+        336
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 product [proj|S4|=2, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 3114,
+      "next_gain": 358,
+      "best": 348,
+      "by_seed": [
+        348,
+        346,
+        346,
+        344,
+        344,
+        342,
+        342,
+        338
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 product [proj|S4|=4] gen~(0, 1, 3, 2)",
+      "usable": 2258,
+      "next_gain": 358,
+      "best": 288,
+      "by_seed": [
+        288,
+        284,
+        284,
+        284,
+        284,
+        284,
+        284,
+        284
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(0, 1, 3, 2)",
+      "usable": 2608,
+      "next_gain": 358,
+      "best": 316,
+      "by_seed": [
+        316,
+        314,
+        314,
+        312,
+        310,
+        310,
+        304,
+        302
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(0, 1, 3, 2)+rev",
+      "usable": 3114,
+      "next_gain": 358,
+      "best": 346,
+      "by_seed": [
+        346,
+        342,
+        340,
+        338,
+        338,
+        338,
+        336,
+        336
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 736,
+      "next_gain": 358,
+      "best": 284,
+      "by_seed": [
+        284,
+        280,
+        280,
+        276,
+        276,
+        276,
+        276,
+        276
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "usable": 4093,
+      "next_gain": 360,
+      "best": 344,
+      "by_seed": [
+        344,
+        344,
+        340,
+        340,
+        340,
+        336,
+        336,
+        336
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "usable": 3447,
+      "next_gain": 360,
+      "best": 340,
+      "by_seed": [
+        340,
+        336,
+        336,
+        336,
+        336,
+        332,
+        332,
+        332
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "usable": 4093,
+      "next_gain": 360,
+      "best": 344,
+      "by_seed": [
+        344,
+        344,
+        340,
+        340,
+        336,
+        336,
+        336,
+        332
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "usable": 4091,
+      "next_gain": 360,
+      "best": 344,
+      "by_seed": [
+        344,
+        340,
+        340,
+        340,
+        340,
+        336,
+        336,
+        332
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 1270,
+      "next_gain": 360,
+      "best": 344,
+      "by_seed": [
+        344,
+        340,
+        340,
+        340,
+        336,
+        336,
+        336,
+        332
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 1554,
+      "next_gain": 360,
+      "best": 348,
+      "by_seed": [
+        348,
+        344,
+        344,
+        340,
+        340,
+        340,
+        340,
+        336
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 product [proj|S4|=8] gen~(0, 1, 3, 2)",
+      "usable": 1127,
+      "next_gain": 360,
+      "best": 296,
+      "by_seed": [
+        296,
+        288,
+        288,
+        288,
+        288,
+        288,
+        280,
+        280
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)",
+      "usable": 821,
+      "next_gain": 360,
+      "best": 280,
+      "by_seed": [
+        280,
+        280,
+        272,
+        272,
+        272,
+        272,
+        272,
+        272
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "usable": 1554,
+      "next_gain": 360,
+      "best": 352,
+      "by_seed": [
+        352,
+        352,
+        344,
+        344,
+        344,
+        340,
+        340,
+        340
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "usable": 1272,
+      "next_gain": 360,
+      "best": 344,
+      "by_seed": [
+        344,
+        344,
+        340,
+        340,
+        336,
+        336,
+        336,
+        336
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=12 product [proj|S4|=12] gen~(0, 2, 3, 1)",
+      "usable": 1265,
+      "next_gain": 360,
+      "best": 352,
+      "by_seed": [
+        352,
+        352,
+        340,
+        340,
+        340,
+        340,
+        340,
+        340
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=16 product [proj|S4|=8, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 246,
+      "next_gain": 360,
+      "best": 264,
+      "by_seed": [
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=24 product [proj|S4|=12, rev] gen~(0, 1, 2, 3)+rev",
+      "usable": 367,
+      "next_gain": 360,
+      "best": 340,
+      "by_seed": [
+        340,
+        340,
+        340,
+        340,
+        340,
+        340,
+        340,
+        340
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=24 product [proj|S4|=24] gen~(0, 1, 3, 2)",
+      "usable": 109,
+      "next_gain": 360,
+      "best": 208,
+      "by_seed": [
+        208,
+        208,
+        208,
+        208,
+        208,
+        208,
+        208,
+        208
+      ],
+      "verified": true
+    },
+    {
+      "name": "|H|=24 DIAGONAL [proj|S4|=24] gen~(0, 1, 3, 2)+rev",
+      "usable": 281,
+      "next_gain": 360,
+      "best": 340,
+      "by_seed": [
+        340,
+        340,
+        340,
+        340,
+        340,
+        340,
+        340,
+        340
+      ],
+      "verified": true
+    }
+  ],
+  "best": 354,
+  "elapsed_seconds": 68438.5
+}

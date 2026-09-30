@@ -1,0 +1,789 @@
+{
+  "n": 7,
+  "d": 4,
+  "table_lb": 65,
+  "table_ub": 128,
+  "engine": "search/mis_ils.c",
+  "seeds": 3,
+  "seconds": 60.0,
+  "cells": [
+    {
+      "class_index": 0,
+      "name": "|H|=48 product [proj|S4|=24, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 48,
+      "diagonal": false,
+      "orbits_usable": 1,
+      "orbit_edges": 0,
+      "orbit_sizes": {
+        "4": 1
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.1
+    },
+    {
+      "class_index": 1,
+      "name": "|H|=24 product [proj|S4|=12, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 24,
+      "diagonal": false,
+      "orbits_usable": 71,
+      "orbit_edges": 2349,
+      "orbit_sizes": {
+        "4": 1,
+        "24": 62,
+        "12": 8
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 72,
+      "seconds_per_seed": 3.55,
+      "wall_seconds": 7.2
+    },
+    {
+      "class_index": 2,
+      "name": "|H|=24 product [proj|S4|=24] gen~(0, 1, 3, 2)",
+      "order": 24,
+      "diagonal": false,
+      "orbits_usable": 1,
+      "orbit_edges": 0,
+      "orbit_sizes": {
+        "4": 1
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.1
+    },
+    {
+      "class_index": 3,
+      "name": "|H|=24 DIAGONAL [proj|S4|=24] gen~(0, 1, 3, 2)+rev",
+      "order": 24,
+      "diagonal": true,
+      "orbits_usable": 91,
+      "orbit_edges": 3413,
+      "orbit_sizes": {
+        "4": 1,
+        "12": 40,
+        "24": 50
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 72,
+      "seconds_per_seed": 4.55,
+      "wall_seconds": 9.2
+    },
+    {
+      "class_index": 4,
+      "name": "|H|=16 product [proj|S4|=8, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 16,
+      "diagonal": false,
+      "orbits_usable": 7,
+      "orbit_edges": 21,
+      "orbit_sizes": {
+        "4": 7
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.1
+    },
+    {
+      "class_index": 5,
+      "name": "|H|=12 product [proj|S4|=12] gen~(0, 2, 3, 1)",
+      "order": 12,
+      "diagonal": false,
+      "orbits_usable": 669,
+      "orbit_edges": 187134,
+      "orbit_sizes": {
+        "4": 1,
+        "12": 668
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 72,
+      "seconds_per_seed": 33.45,
+      "wall_seconds": 67.1
+    },
+    {
+      "class_index": 6,
+      "name": "|H|=12 product [proj|S4|=6, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 12,
+      "diagonal": false,
+      "orbits_usable": 43,
+      "orbit_edges": 357,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 27,
+        "3": 8,
+        "12": 7
+      },
+      "by_seed": [
+        37,
+        37,
+        37
+      ],
+      "best": 37,
+      "verified": true,
+      "size": 37,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 2.15,
+      "wall_seconds": 4.4
+    },
+    {
+      "class_index": 7,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 14,
+      "orbit_edges": 42,
+      "orbit_sizes": {
+        "2": 14
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": null,
+      "seconds_per_seed": 2.0,
+      "wall_seconds": 4.1
+    },
+    {
+      "class_index": 8,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 667,
+      "orbit_edges": 140241,
+      "orbit_sizes": {
+        "4": 61,
+        "8": 606
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 33.35,
+      "wall_seconds": 66.9
+    },
+    {
+      "class_index": 9,
+      "name": "|H|=8 product [proj|S4|=4, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 1277,
+      "orbit_edges": 523268,
+      "orbit_sizes": {
+        "4": 63,
+        "8": 1214
+      },
+      "by_seed": [
+        72,
+        72,
+        72
+      ],
+      "best": 72,
+      "verified": true,
+      "size": 72,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.4,
+      "artifact": "<REPO>/best/editq_n7_d4_size72.txt",
+      "sha256": "808a6c22897d6702bb5b9c756f4fda428db02840b496ee582e6b4fcb4ca28f2b"
+    },
+    {
+      "class_index": 10,
+      "name": "|H|=8 product [proj|S4|=8] gen~(0, 1, 3, 2)",
+      "order": 8,
+      "diagonal": false,
+      "orbits_usable": 57,
+      "orbit_edges": 1596,
+      "orbit_sizes": {
+        "4": 57
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 2.85,
+      "wall_seconds": 5.8
+    },
+    {
+      "class_index": 11,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 57,
+      "orbit_edges": 1596,
+      "orbit_sizes": {
+        "4": 57
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 2.85,
+      "wall_seconds": 5.8
+    },
+    {
+      "class_index": 12,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 1277,
+      "orbit_edges": 523504,
+      "orbit_sizes": {
+        "4": 63,
+        "8": 1214
+      },
+      "by_seed": [
+        72,
+        72,
+        72
+      ],
+      "best": 72,
+      "verified": true,
+      "size": 72,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.4,
+      "artifact": "<REPO>/best/editq_n7_d4_size72.txt",
+      "sha256": "85cb1ceb68de50ccc1566cddddc8240d28b328cbb2b688e8cc0520bc74aeb391"
+    },
+    {
+      "class_index": 13,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 669,
+      "orbit_edges": 140368,
+      "orbit_sizes": {
+        "4": 61,
+        "8": 608
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 33.45,
+      "wall_seconds": 67.1
+    },
+    {
+      "class_index": 14,
+      "name": "|H|=6 product [proj|S4|=3, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 6,
+      "diagonal": false,
+      "orbits_usable": 1827,
+      "orbit_edges": 863859,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 1754,
+        "3": 72
+      },
+      "by_seed": [
+        70,
+        70,
+        70
+      ],
+      "best": 70,
+      "verified": true,
+      "size": 70,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.7,
+      "artifact": "<REPO>/best/editq_n7_d4_size70.txt",
+      "sha256": "57e59f9bb41241405b2aede2dbcfb6353bbc4c3169cc29f037f08b060afdacc2"
+    },
+    {
+      "class_index": 15,
+      "name": "|H|=6 product [proj|S4|=6] gen~(0, 1, 3, 2)",
+      "order": 6,
+      "diagonal": false,
+      "orbits_usable": 197,
+      "orbit_edges": 9094,
+      "orbit_sizes": {
+        "1": 1,
+        "3": 64,
+        "6": 132
+      },
+      "by_seed": [
+        37,
+        37,
+        37
+      ],
+      "best": 37,
+      "verified": true,
+      "size": 37,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 9.85,
+      "wall_seconds": 19.8
+    },
+    {
+      "class_index": 16,
+      "name": "|H|=6 DIAGONAL [proj|S4|=6] gen~(0, 1, 3, 2)+rev",
+      "order": 6,
+      "diagonal": true,
+      "orbits_usable": 1347,
+      "orbit_edges": 464339,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 1242,
+        "3": 104
+      },
+      "by_seed": [
+        70,
+        70,
+        70
+      ],
+      "best": 70,
+      "verified": true,
+      "size": 70,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.5,
+      "artifact": "<REPO>/best/editq_n7_d4_size70.txt",
+      "sha256": "177ea7a7d5f5879182afd927a48a93ee9401cf715d493bd8a62aa99438fc7fcf"
+    },
+    {
+      "class_index": 17,
+      "name": "|H|=4 product [proj|S4|=2, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 1285,
+      "orbit_edges": 351099,
+      "orbit_sizes": {
+        "1": 16,
+        "2": 115,
+        "4": 1154
+      },
+      "by_seed": [
+        57,
+        57,
+        57
+      ],
+      "best": 57,
+      "verified": true,
+      "size": 57,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.3
+    },
+    {
+      "class_index": 18,
+      "name": "|H|=4 product [proj|S4|=2, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 2662,
+      "orbit_edges": 1353076,
+      "orbit_sizes": {
+        "2": 126,
+        "4": 2536
+      },
+      "by_seed": [
+        68,
+        66,
+        66
+      ],
+      "best": 68,
+      "verified": true,
+      "size": 68,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 121.1,
+      "artifact": "<REPO>/best/editq_n7_d4_size68.txt",
+      "sha256": "cd54250b096a9bbfc2922f800e2d0039770f30a471ce095873e09d5fce8b76ba"
+    },
+    {
+      "class_index": 19,
+      "name": "|H|=4 product [proj|S4|=4] gen~(0, 1, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 114,
+      "orbit_edges": 3192,
+      "orbit_sizes": {
+        "2": 114
+      },
+      "by_seed": [
+        4,
+        4,
+        4
+      ],
+      "best": 4,
+      "verified": true,
+      "size": 4,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 5.7,
+      "wall_seconds": 11.5
+    },
+    {
+      "class_index": 20,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 4039,
+      "orbit_edges": 3320235,
+      "orbit_sizes": {
+        "4": 4039
+      },
+      "by_seed": [
+        68,
+        68,
+        68
+      ],
+      "best": 68,
+      "verified": true,
+      "size": 68,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 122.8,
+      "artifact": "<REPO>/best/editq_n7_d4_size68.txt",
+      "sha256": "545f33d3b9a2e12c94084e091fa15686f0454d80ce7aec131d49ff2ed43895bf"
+    },
+    {
+      "class_index": 21,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 4039,
+      "orbit_edges": 3310421,
+      "orbit_sizes": {
+        "4": 4039
+      },
+      "by_seed": [
+        64,
+        68,
+        68
+      ],
+      "best": 68,
+      "verified": true,
+      "size": 68,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 122.1,
+      "artifact": "<REPO>/best/editq_n7_d4_size68.txt",
+      "sha256": "c5f7d7477700e629fc0984b35083bc9eaa1be27f79ef27b37e3c390f2b304064"
+    },
+    {
+      "class_index": 22,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(0, 1, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 1208,
+      "orbit_edges": 331251,
+      "orbit_sizes": {
+        "2": 54,
+        "4": 1154
+      },
+      "by_seed": [
+        56,
+        56,
+        56
+      ],
+      "best": 56,
+      "verified": true,
+      "size": 56,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.3
+    },
+    {
+      "class_index": 23,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(0, 1, 3, 2)+rev",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 2662,
+      "orbit_edges": 1352122,
+      "orbit_sizes": {
+        "2": 126,
+        "4": 2536
+      },
+      "by_seed": [
+        68,
+        68,
+        68
+      ],
+      "best": 68,
+      "verified": true,
+      "size": 68,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.8,
+      "artifact": "<REPO>/best/editq_n7_d4_size68.txt",
+      "sha256": "dd819ce954d08d6c477edd47726eeb6fa0a7c3f293d60b990c31fcef01dd5291"
+    },
+    {
+      "class_index": 24,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 2549,
+      "orbit_edges": 1307868,
+      "orbit_sizes": {
+        "4": 2549
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 120.9
+    },
+    {
+      "class_index": 25,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 3989,
+      "orbit_edges": 3072050,
+      "orbit_sizes": {
+        "4": 3989
+      },
+      "by_seed": [
+        64,
+        68,
+        68
+      ],
+      "best": 68,
+      "verified": true,
+      "size": 68,
+      "next_attainable_above_lb": 68,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 122.8,
+      "artifact": "<REPO>/best/editq_n7_d4_size68.txt",
+      "sha256": "6bf543b82f9a2979e86fa5327b634bb1447809b25b5de96b6011ec1d7c5c5ccb"
+    },
+    {
+      "class_index": 26,
+      "name": "|H|=3 product [proj|S4|=3] gen~(0, 2, 3, 1)",
+      "order": 3,
+      "diagonal": false,
+      "orbits_usable": 4777,
+      "orbit_edges": 3475154,
+      "orbit_sizes": {
+        "1": 1,
+        "3": 4776
+      },
+      "by_seed": [
+        67,
+        64,
+        64
+      ],
+      "best": 67,
+      "verified": true,
+      "size": 67,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 122.4,
+      "artifact": "<REPO>/best/editq_n7_d4_size67.txt",
+      "sha256": "c013ec89a7f34c4466dee0656d7222748e2e2526282b27f0b79e0986a20c7460"
+    },
+    {
+      "class_index": 27,
+      "name": "|H|=2 product [proj|S4|=1, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 2,
+      "diagonal": false,
+      "orbits_usable": 6844,
+      "orbit_edges": 4713624,
+      "orbit_sizes": {
+        "1": 256,
+        "2": 6588
+      },
+      "by_seed": [
+        66,
+        66,
+        66
+      ],
+      "best": 66,
+      "verified": true,
+      "size": 66,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 123.4,
+      "artifact": "<REPO>/best/editq_n7_d4_size66.txt",
+      "sha256": "b3ca3f34c6f545e6c93a7a9a97b59f5b8e9fe53999b42756592227a742d73fce"
+    },
+    {
+      "class_index": 28,
+      "name": "|H|=2 product [proj|S4|=2] gen~(0, 1, 3, 2)",
+      "order": 2,
+      "diagonal": false,
+      "orbits_usable": 3757,
+      "orbit_edges": 1809851,
+      "orbit_sizes": {
+        "1": 128,
+        "2": 3629
+      },
+      "by_seed": [
+        53,
+        55,
+        55
+      ],
+      "best": 55,
+      "verified": true,
+      "size": 55,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 151.9
+    },
+    {
+      "class_index": 29,
+      "name": "|H|=2 product [proj|S4|=2] gen~(1, 0, 3, 2)",
+      "order": 2,
+      "diagonal": false,
+      "orbits_usable": 8154,
+      "orbit_edges": 6995948,
+      "orbit_sizes": {
+        "2": 8154
+      },
+      "by_seed": [
+        64,
+        64,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 428.5
+    },
+    {
+      "class_index": 30,
+      "name": "|H|=2 DIAGONAL [proj|S4|=2] gen~(0, 1, 3, 2)+rev",
+      "order": 2,
+      "diagonal": true,
+      "orbits_usable": 6721,
+      "orbit_edges": 4641355,
+      "orbit_sizes": {
+        "1": 128,
+        "2": 6593
+      },
+      "by_seed": [
+        66,
+        66,
+        66
+      ],
+      "best": 66,
+      "verified": true,
+      "size": 66,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 122.7,
+      "artifact": "<REPO>/best/editq_n7_d4_size66.txt",
+      "sha256": "6763e6e12142c0c13a3ed430a91e6416c139e1753e6dcbe0e3e85d8a7adde599"
+    },
+    {
+      "class_index": 31,
+      "name": "|H|=2 DIAGONAL [proj|S4|=2] gen~(1, 0, 3, 2)+rev",
+      "order": 2,
+      "diagonal": true,
+      "orbits_usable": 6598,
+      "orbit_edges": 4570948,
+      "orbit_sizes": {
+        "2": 6598
+      },
+      "by_seed": [
+        64,
+        62,
+        64
+      ],
+      "best": 64,
+      "verified": true,
+      "size": 64,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 122.9
+    },
+    {
+      "class_index": 32,
+      "name": "|H|=1 product [proj|S4|=1] gen~(0, 1, 2, 3)",
+      "order": 1,
+      "diagonal": false,
+      "orbits_usable": 16384,
+      "orbit_edges": 14350338,
+      "orbit_sizes": {
+        "1": 16384
+      },
+      "by_seed": [
+        63,
+        62,
+        63
+      ],
+      "best": 63,
+      "verified": true,
+      "size": 63,
+      "next_attainable_above_lb": 66,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 128.9
+    }
+  ],
+  "elapsed_seconds": 3241.3
+}

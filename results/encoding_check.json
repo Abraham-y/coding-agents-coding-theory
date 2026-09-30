@@ -1,0 +1,26 @@
+{
+  "small_cells": [
+    {
+      "n": 3,
+      "d": 3,
+      "computed": 4,
+      "published": 4,
+      "match": true
+    },
+    {
+      "n": 4,
+      "d": 3,
+      "computed": 16,
+      "published": 16,
+      "match": true
+    }
+  ],
+  "exhaustive": {
+    "n": 6,
+    "vertices": 4096,
+    "edges": 392358,
+    "pairs_compared": 8386560,
+    "mismatches": 0
+  },
+  "elapsed_seconds": 67.2
+}

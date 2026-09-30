@@ -1,0 +1,70 @@
+Edit4 G(6): 4096 vertices, 21500 cliques
+S_4 x C_2 (order 48): 30 conjugacy classes of subgroups -- 19 product-form, 11 DIAGONAL (never swept before)
+
+       |H|=48  orbits   107 (   4 usable)  sizes {4: 1, 12: 3}   113 attainable? NO   114? NO 
+       |H|=24  orbits   182 (  48 usable)  sizes {4: 1, 12: 17, 24: 30}   113 attainable? NO   114? NO 
+       |H|=24  orbits   187 (  10 usable)  sizes {4: 1, 12: 9}   113 attainable? NO   114? NO 
+  DIAG |H|=24  orbits   187 (  32 usable)  sizes {4: 1, 12: 17, 24: 14}   113 attainable? NO   114? NO 
+       |H|=12  orbits   379 (  30 usable)  sizes {1: 1, 6: 14, 3: 4, 12: 11}   113 attainable? NO   114? yes
+       |H|=12  orbits   342 ( 270 usable)  sizes {4: 1, 12: 269}   113 attainable? NO   114? NO 
+       |H|= 8  orbits   528 ( 318 usable)  sizes {4: 31, 8: 287}   113 attainable? NO   114? NO 
+       |H|= 8  orbits   528 ( 174 usable)  sizes {4: 31, 8: 143}   113 attainable? NO   114? NO 
+  DIAG |H|= 8  orbits   544 ( 149 usable)  sizes {4: 61, 8: 88}   113 attainable? NO   114? NO 
+  DIAG |H|= 8  orbits   528 ( 316 usable)  sizes {4: 31, 8: 285}   113 attainable? NO   114? NO 
+  DIAG |H|= 8  orbits   544 ( 211 usable)  sizes {4: 61, 8: 150}   113 attainable? NO   114? NO 
+       |H|= 6  orbits   694 ( 456 usable)  sizes {1: 1, 6: 437, 3: 18}   113 attainable? NO   114? yes
+       |H|= 6  orbits   715 ( 187 usable)  sizes {1: 1, 3: 42, 6: 144}   113 attainable? NO   114? yes
+  DIAG |H|= 6  orbits   715 ( 336 usable)  sizes {1: 1, 6: 285, 3: 50}   113 attainable? NO   114? yes
+       |H|= 4  orbits  1072 ( 406 usable)  sizes {1: 8, 2: 38, 4: 360}   113 attainable? yes  114? yes
+       |H|= 4  orbits  1056 ( 640 usable)  sizes {2: 62, 4: 578}   113 attainable? NO   114? yes
+       |H|= 4  orbits  1056 ( 352 usable)  sizes {2: 62, 4: 290}   113 attainable? NO   114? yes
+       |H|= 4  orbits  1024 (1021 usable)  sizes {4: 1021}   113 attainable? NO   114? NO 
+       |H|= 4  orbits  1024 (1021 usable)  sizes {4: 1021}   113 attainable? NO   114? NO 
+  DIAG |H|= 4  orbits  1072 ( 471 usable)  sizes {2: 45, 1: 8, 4: 418}   113 attainable? yes  114? yes
+  DIAG |H|= 4  orbits  1056 ( 636 usable)  sizes {2: 62, 4: 574}   113 attainable? NO   114? yes
+  DIAG |H|= 4  orbits  1056 ( 767 usable)  sizes {4: 703, 2: 64}   113 attainable? NO   114? yes
+  DIAG |H|= 4  orbits  1024 (1021 usable)  sizes {4: 1021}   113 attainable? NO   114? NO 
+       |H|= 3  orbits  1366 (1295 usable)  sizes {1: 1, 3: 1294}   113 attainable? NO   114? yes
+       |H|= 2  orbits  2080 (1498 usable)  sizes {1: 64, 2: 1434}   113 attainable? yes  114? yes
+       |H|= 2  orbits  2080 (1359 usable)  sizes {1: 64, 2: 1295}   113 attainable? yes  114? yes
+       |H|= 2  orbits  2048 (2046 usable)  sizes {2: 2046}   113 attainable? NO   114? yes
+  DIAG |H|= 2  orbits  2080 (1635 usable)  sizes {1: 64, 2: 1571}   113 attainable? yes  114? yes
+  DIAG |H|= 2  orbits  2080 (1792 usable)  sizes {2: 1728, 1: 64}   113 attainable? yes  114? yes
+       |H|= 1  orbits  4096 (4096 usable)  sizes {1: 4096}   113 attainable? yes  114? yes
+       |H|=48 (   4 usable,    20s x4)  best   16  verified=True 
+       |H|=24 (  10 usable,    20s x4)  best   16  verified=True 
+       |H|=12 (  30 usable,    20s x4)  best   58  verified=True 
+  DIAG |H|=24 (  32 usable,    20s x4)  best   64  verified=True 
+       |H|=24 (  48 usable,    20s x4)  best   76  verified=True 
+  DIAG |H|= 8 ( 149 usable,    20s x4)  best   80  verified=True 
+       |H|= 8 ( 174 usable,    22s x4)  best   80  verified=True 
+       |H|= 6 ( 187 usable,    23s x4)  best   70  verified=True 
+  DIAG |H|= 8 ( 211 usable,    26s x4)  best  104  verified=True 
+       |H|=12 ( 270 usable,    34s x4)  best  112  verified=True 
+  DIAG |H|= 8 ( 316 usable,    40s x4)  best  112  verified=True 
+       |H|= 8 ( 318 usable,    40s x4)  best  108  verified=True 
+  DIAG |H|= 6 ( 336 usable,    42s x4)  best  103  verified=True 
+       |H|= 4 ( 352 usable,    44s x4)  best   84  verified=True 
+       |H|= 4 ( 406 usable,    51s x4)  best   88  verified=True 
+       |H|= 6 ( 456 usable,    57s x4)  best  109  verified=True 
+  DIAG |H|= 4 ( 471 usable,    59s x4)  best   92  verified=True 
+  DIAG |H|= 4 ( 636 usable,    80s x4)  best  108  verified=True 
+       |H|= 4 ( 640 usable,    80s x4)  best  108  verified=True 
+  DIAG |H|= 4 ( 767 usable,    96s x4)  best  112  verified=True 
+       |H|= 4 (1021 usable,   128s x4)  best  112  verified=True 
+       |H|= 4 (1021 usable,   128s x4)  best  116  verified=True 
+       >= 113 -- independent Levenshtein: 0 bad pairs
+       saved <REPO>/best/edit4_n6_diag_size116.txt -- rule 6: bug until re-verified fresh
+  DIAG |H|= 4 (1021 usable,   128s x4)  best  116  verified=True 
+       >= 113 -- independent Levenshtein: 0 bad pairs
+       saved <REPO>/best/edit4_n6_diag_size116.txt -- rule 6: bug until re-verified fresh
+       |H|= 3 (1295 usable,   162s x4)  best  109  verified=True 
+       |H|= 2 (1359 usable,   170s x4)  best   95  verified=True 
+       |H|= 2 (1498 usable,   187s x4)  best  107  verified=True 
+  DIAG |H|= 2 (1635 usable,   204s x4)  best  107  verified=True 
+  DIAG |H|= 2 (1792 usable,   224s x4)  best  108  verified=True 
+       |H|= 2 (2046 usable,   256s x4)  best  112  verified=True 
+       |H|= 1 (4096 usable,   300s x4)  best  109  verified=True 
+
+log: <REPO>/results/edit4_diag_sweep_n6_20260825T154123.json
+best over all 30 classes: 116  (|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2))

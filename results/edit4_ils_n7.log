@@ -1,0 +1,7 @@
+seed 20: size=349 iters=391252 verify=True
+seed 24: size=349 iters=397333 verify=True
+seed 22: size=347 iters=398200 verify=True
+seed 23: size=347 iters=396882 verify=True
+seed 25: size=346 iters=403071 verify=True
+seed 21: size=343 iters=402659 verify=True
+BEST RAW: 349  (published best known: 352)  wall=5412s

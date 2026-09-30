@@ -1,0 +1,6 @@
+n=7: 3 classes the 30-class sweep never covered
+  |H|= 8 2144 orbits (736 usable, 5612 words available) build+search 2822s -> best 284  verified=True
+  |H|= 8 2080 orbits (1270 usable, 9916 words available) build+search 2259s -> best 340  verified=True
+  |H|=16 1072 orbits (246 usable, 3676 words available) build+search 2215s -> best 264  verified=True
+
+best over the 3 missing n=7 classes: 340  (record 356)

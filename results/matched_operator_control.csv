@@ -1,0 +1,17 @@
+matched-operator control: mis_ils on raw vs orbit graphs, 120s per seed
+graph,seed,best
+raw4096,1,113
+raw4096,2,113
+raw4096,3,111
+raw4096,4,113
+raw4096,5,113
+orbit1021_c1,1,116
+orbit1021_c1,2,116
+orbit1021_c1,3,116
+orbit1021_c1,4,116
+orbit1021_c1,5,112
+orbit1021_c3,1,116
+orbit1021_c3,2,116
+orbit1021_c3,3,116
+orbit1021_c3,4,116
+orbit1021_c3,5,116

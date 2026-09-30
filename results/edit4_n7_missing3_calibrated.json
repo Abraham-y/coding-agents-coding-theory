@@ -1,0 +1,65 @@
+{
+  "n": 7,
+  "target": 356,
+  "budget_core_min": 40.0,
+  "calibration_reference_main_sweep": 348,
+  "cells": [
+    {
+      "label": "CALIBRATION trivial",
+      "order": 1,
+      "usable": 16384,
+      "core_minutes": 40.0,
+      "best": 348,
+      "by_seed": [
+        348,
+        347,
+        344,
+        342
+      ],
+      "verified": true
+    },
+    {
+      "label": "missed |H|=8",
+      "order": 8,
+      "usable": 736,
+      "core_minutes": 40.0,
+      "best": 284,
+      "by_seed": [
+        284,
+        280,
+        280,
+        280
+      ],
+      "verified": true
+    },
+    {
+      "label": "missed |H|=8",
+      "order": 8,
+      "usable": 1270,
+      "core_minutes": 40.0,
+      "best": 340,
+      "by_seed": [
+        340,
+        340,
+        340,
+        340
+      ],
+      "verified": true
+    },
+    {
+      "label": "missed |H|=16",
+      "order": 16,
+      "usable": 246,
+      "core_minutes": 40.0,
+      "best": 264,
+      "by_seed": [
+        264,
+        264,
+        264,
+        264
+      ],
+      "verified": true
+    }
+  ],
+  "elapsed_seconds": 2453.8
+}

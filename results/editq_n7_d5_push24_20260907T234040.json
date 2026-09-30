@@ -1,0 +1,103 @@
+{
+  "n": 7,
+  "d": 5,
+  "table_lb": 18,
+  "table_ub": 24,
+  "engine": "search/mis_ils.c",
+  "seeds": 10,
+  "seconds": 60.0,
+  "cells": [
+    {
+      "class_index": 20,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 3568,
+      "orbit_edges": 6069906,
+      "orbit_sizes": {
+        "4": 3568
+      },
+      "by_seed": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "best": 20,
+      "verified": true,
+      "size": 20,
+      "next_attainable_above_lb": 20,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 611.2,
+      "artifact": "<REPO>/best/editq_n7_d5_size20_class20.txt",
+      "sha256": "74f19f275251e84fc6cde1a1dc58efedefb314f53d0c830e5021537f7438a553"
+    },
+    {
+      "class_index": 21,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 3570,
+      "orbit_edges": 6072737,
+      "orbit_sizes": {
+        "4": 3570
+      },
+      "by_seed": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+      ],
+      "best": 16,
+      "verified": true,
+      "size": 16,
+      "next_attainable_above_lb": 20,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 609.7
+    },
+    {
+      "class_index": 25,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 2934,
+      "orbit_edges": 3937749,
+      "orbit_sizes": {
+        "4": 2934
+      },
+      "by_seed": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "best": 20,
+      "verified": true,
+      "size": 20,
+      "next_attainable_above_lb": 20,
+      "seconds_per_seed": 60.0,
+      "wall_seconds": 1484.7,
+      "artifact": "<REPO>/best/editq_n7_d5_size20_class25.txt",
+      "sha256": "b79989c5a02665a2a084324c684f92c02a4c61f0690092c000dd5185d4293ccc"
+    }
+  ],
+  "elapsed_seconds": 2930.6
+}

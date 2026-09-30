@@ -1,0 +1,36 @@
+n=7, target 356
+32 classes can beat 356; smallest reachable gains: [357, 358, 360]
+  |H|= 1 16384 usable  next>356=357  best  349  seeds [349, 344, 343, 343, 338, 338, 338, 334]  ok=True
+  |H|= 2  6844 usable  next>356=357  best  354  seeds [354, 348, 345, 344, 344, 343, 342, 342]  ok=True
+  |H|= 2  6335 usable  next>356=357  best  316  seeds [316, 316, 312, 312, 312, 311, 310, 308]  ok=True
+  |H|= 2  7187 usable  next>356=357  best  345  seeds [345, 344, 344, 344, 339, 338, 338, 337]  ok=True
+  |H|= 3  5362 usable  next>356=357  best  346  seeds [346, 343, 343, 340, 340, 337, 337, 337]  ok=True
+  |H|= 4  2371 usable  next>356=357  best  317  seeds [317, 317, 317, 315, 313, 311, 309, 307]  ok=True
+  |H|= 6  2218 usable  next>356=357  best  352  seeds [352, 349, 349, 346, 346, 343, 343, 340]  ok=True
+  |H|= 6  1222 usable  next>356=357  best  268  seeds [268, 262, 262, 262, 262, 262, 256, 256]  ok=True
+  |H|= 6  1818 usable  next>356=357  best  337  seeds [337, 334, 331, 328, 328, 325, 325, 322]  ok=True
+  |H|=12   339 usable  next>356=357  best  259  seeds [259, 259, 259, 259, 259, 259, 259, 259]  ok=True
+  |H|= 2  8190 usable  next>356=358  best  348  seeds [348, 344, 344, 342, 340, 340, 338, 338]  ok=True
+  |H|= 2  7530 usable  next>356=358  best  342  seeds [342, 340, 340, 340, 338, 336, 336, 336]  ok=True
+  |H|= 4  3114 usable  next>356=358  best  348  seeds [348, 346, 346, 344, 344, 342, 342, 338]  ok=True
+  |H|= 4  2258 usable  next>356=358  best  288  seeds [288, 284, 284, 284, 284, 284, 284, 284]  ok=True
+  |H|= 4  2608 usable  next>356=358  best  316  seeds [316, 314, 314, 312, 310, 310, 304, 302]  ok=True
+  |H|= 4  3114 usable  next>356=358  best  346  seeds [346, 342, 340, 338, 338, 338, 336, 336]  ok=True
+  |H|= 8   736 usable  next>356=358  best  284  seeds [284, 280, 280, 276, 276, 276, 276, 276]  ok=True
+  |H|= 4  4093 usable  next>356=360  best  344  seeds [344, 344, 340, 340, 340, 336, 336, 336]  ok=True
+  |H|= 4  3447 usable  next>356=360  best  340  seeds [340, 336, 336, 336, 336, 332, 332, 332]  ok=True
+  |H|= 4  4093 usable  next>356=360  best  344  seeds [344, 344, 340, 340, 336, 336, 336, 332]  ok=True
+  |H|= 4  4091 usable  next>356=360  best  344  seeds [344, 340, 340, 340, 340, 336, 336, 332]  ok=True
+  |H|= 8  1270 usable  next>356=360  best  344  seeds [344, 340, 340, 340, 336, 336, 336, 332]  ok=True
+  |H|= 8  1554 usable  next>356=360  best  348  seeds [348, 344, 344, 340, 340, 340, 340, 336]  ok=True
+  |H|= 8  1127 usable  next>356=360  best  296  seeds [296, 288, 288, 288, 288, 288, 280, 280]  ok=True
+  |H|= 8   821 usable  next>356=360  best  280  seeds [280, 280, 272, 272, 272, 272, 272, 272]  ok=True
+  |H|= 8  1554 usable  next>356=360  best  352  seeds [352, 352, 344, 344, 344, 340, 340, 340]  ok=True
+  |H|= 8  1272 usable  next>356=360  best  344  seeds [344, 344, 340, 340, 336, 336, 336, 336]  ok=True
+  |H|=12  1265 usable  next>356=360  best  352  seeds [352, 352, 340, 340, 340, 340, 340, 340]  ok=True
+  |H|=16   246 usable  next>356=360  best  264  seeds [264, 264, 264, 264, 264, 264, 264, 264]  ok=True
+  |H|=24   367 usable  next>356=360  best  340  seeds [340, 340, 340, 340, 340, 340, 340, 340]  ok=True
+  |H|=24   109 usable  next>356=360  best  208  seeds [208, 208, 208, 208, 208, 208, 208, 208]  ok=True
+  |H|=24   281 usable  next>356=360  best  340  seeds [340, 340, 340, 340, 340, 340, 340, 340]  ok=True
+
+best over the live classes: 354  (record 356)

@@ -1,0 +1,7 @@
+class 12: |H|=8 DIAG 13143 usable, 51560273 edges, sizes {4: 237, 8: 12906}, next>97: 100, build 0s  |H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev
+  by seed [100, 100]  (iters best seed 1005696)
+  best 100  verify_edit4=True size=100   lev-bad-pairs=0
+  *** 100 > record 97: saved <REPO>/best/editq_n9_d5_size100_class12_alt2.txt sha256=faf1d22f8ab56c62131f806e018e58d066dacb420eefab99fc1920d1eee8acc9
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 100  record 97  log <REPO>/results/edit4_cmis_n9_n9d5c12b_20260908T104421.json

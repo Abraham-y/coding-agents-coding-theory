@@ -1,0 +1,43 @@
+{
+  "n": 8,
+  "engine": "search/mis_ils.c",
+  "seeds": 4,
+  "seed0": 10,
+  "seconds": 600.0,
+  "init": null,
+  "target": null,
+  "cells": [
+    {
+      "class_index": 12,
+      "name": "|H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev",
+      "order": 8,
+      "diagonal": true,
+      "orbits_usable": 6500,
+      "orbit_edges": 6693178,
+      "orbit_sizes": {
+        "4": 126,
+        "8": 6374
+      },
+      "by_seed": [
+        196,
+        192,
+        188,
+        188
+      ],
+      "seeds": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "best": 196,
+      "verified": true,
+      "size": 196,
+      "next_attainable_above_record": 180,
+      "wall_seconds": 1598.9,
+      "artifact": "<REPO>/best/editq_n8_d4_size196_class12.txt",
+      "sha256": "9795dd0caeb09e76e41fe778c5e7a0496b2beecbda4866507421c35184deca53"
+    }
+  ],
+  "elapsed_seconds": 2521.7
+}

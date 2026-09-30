@@ -1,0 +1,64 @@
+{
+  "n": 8,
+  "engine": "search/mis_ils.c",
+  "seeds": 2,
+  "seed0": 1,
+  "seconds": 600.0,
+  "init": null,
+  "target": null,
+  "cells": [
+    {
+      "class_index": 21,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 16381,
+      "orbit_edges": 2951191,
+      "orbit_sizes": {
+        "4": 16381
+      },
+      "by_seed": [
+        1136,
+        1140
+      ],
+      "seeds": [
+        1,
+        2
+      ],
+      "best": 1140,
+      "verified": true,
+      "size": 1140,
+      "next_attainable_above_record": 1136,
+      "wall_seconds": 634.8,
+      "artifact": "<REPO>/best/edit4_n8_cmis_size1140.txt",
+      "sha256": "553e61009fde18b187d5876b79e9f5e72462bafd716f444b6dc64e900c3910dc"
+    },
+    {
+      "class_index": 25,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 16381,
+      "orbit_edges": 2946911,
+      "orbit_sizes": {
+        "4": 16381
+      },
+      "by_seed": [
+        1128,
+        1140
+      ],
+      "seeds": [
+        1,
+        2
+      ],
+      "best": 1140,
+      "verified": true,
+      "size": 1140,
+      "next_attainable_above_record": 1136,
+      "wall_seconds": 634.1,
+      "artifact": "<REPO>/best/edit4_n8_cmis_size1140.txt",
+      "sha256": "d0159e782bf368c816e659bae8899009c4d5cb9d57b0f050a2acf9911e946c41"
+    }
+  ],
+  "elapsed_seconds": 1275.2
+}

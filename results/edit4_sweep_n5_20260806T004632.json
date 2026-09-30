@@ -1,0 +1,352 @@
+{
+  "n": 5,
+  "results": [
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 114,
+      "size": 42,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 59,
+      "size": 26,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 59,
+      "size": 26,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 59,
+      "size": 26,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 114,
+      "size": 42,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 59,
+      "size": 26,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 59,
+      "size": 26,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 114,
+      "size": 42,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 2,
+      "reversal": true,
+      "orbits": 59,
+      "size": 26,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 3,
+      "reversal": false,
+      "orbits": 295,
+      "size": 43,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 3,
+      "reversal": true,
+      "orbits": 83,
+      "size": 40,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 3,
+      "reversal": false,
+      "orbits": 295,
+      "size": 43,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 3,
+      "reversal": true,
+      "orbits": 83,
+      "size": 40,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 3,
+      "reversal": false,
+      "orbits": 295,
+      "size": 43,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 3,
+      "reversal": true,
+      "orbits": 83,
+      "size": 40,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 3,
+      "reversal": false,
+      "orbits": 295,
+      "size": 43,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 3,
+      "reversal": true,
+      "orbits": 83,
+      "size": 40,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 30,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 6,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 30,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 6,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 253,
+      "size": 44,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 55,
+      "size": 36,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 253,
+      "size": 44,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 55,
+      "size": 36,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 30,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 6,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 253,
+      "size": 44,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 25,
+      "size": 24,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 4,
+      "reversal": false,
+      "orbits": 253,
+      "size": 44,
+      "proven_optimal_invariant": false
+    },
+    {
+      "order": 4,
+      "reversal": true,
+      "orbits": 55,
+      "size": 36,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": false,
+      "orbits": 26,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": true,
+      "orbits": 7,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": false,
+      "orbits": 26,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": true,
+      "orbits": 7,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": false,
+      "orbits": 26,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": true,
+      "orbits": 7,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": false,
+      "orbits": 26,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 6,
+      "reversal": true,
+      "orbits": 7,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 8,
+      "reversal": false,
+      "orbits": 15,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 8,
+      "reversal": true,
+      "orbits": 3,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 8,
+      "reversal": false,
+      "orbits": 15,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 8,
+      "reversal": true,
+      "orbits": 3,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 8,
+      "reversal": false,
+      "orbits": 15,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 8,
+      "reversal": true,
+      "orbits": 3,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 12,
+      "reversal": false,
+      "orbits": 39,
+      "size": 28,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 12,
+      "reversal": true,
+      "orbits": 3,
+      "size": 16,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 24,
+      "reversal": false,
+      "orbits": 1,
+      "size": 4,
+      "proven_optimal_invariant": true
+    },
+    {
+      "order": 24,
+      "reversal": true,
+      "orbits": 1,
+      "size": 4,
+      "proven_optimal_invariant": true
+    }
+  ],
+  "best_size": 44,
+  "best_group": "|H|=4",
+  "published_best": null,
+  "elapsed_seconds": 490.9
+}

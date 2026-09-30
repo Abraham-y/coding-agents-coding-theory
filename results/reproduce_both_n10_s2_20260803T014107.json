@@ -1,0 +1,32 @@
+{
+  "method": "prescribed-symmetry orbit MWIS, group=both",
+  "n": 10,
+  "s": 2,
+  "group": "both",
+  "usable_orbits": 54,
+  "dropped_orbits": 218,
+  "seconds_per_worker": 15.0,
+  "workers": 1,
+  "base_seed": 5,
+  "wall_seconds": 15.0,
+  "best_size": 14,
+  "sizes_by_seed": {
+    "5": 14
+  },
+  "best_words": [
+    "0000000000",
+    "0000011010",
+    "0000100011",
+    "0001111000",
+    "0011101111",
+    "0101100000",
+    "0110101001",
+    "1001010110",
+    "1010011111",
+    "1100010000",
+    "1110000111",
+    "1111011100",
+    "1111100101",
+    "1111111111"
+  ]
+}

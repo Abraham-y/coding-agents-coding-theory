@@ -1,0 +1,11 @@
+class 20: |H|=4 prod 1021 usable, 96657 edges, sizes {4: 1021}, next>120: 124, build 0s  |H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)
+  by seed [116, 116, 116, 116, 120, 116, 116, 116, 116, 116, 120, 120, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 120, 116, 116, 116, 116, 116]  (iters best seed 1353152)
+  best 120  verify_edit4=True size=120   lev-bad-pairs=0
+class 21: |H|=4 prod 1021 usable, 96595 edges, sizes {4: 1021}, next>120: 124, build 0s  |H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)
+  by seed [116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116]  (iters best seed 772288)
+  best 116  verify_edit4=True size=116   lev-bad-pairs=0
+class 25: |H|=4 DIAG 1021 usable, 94257 edges, sizes {4: 1021}, next>120: 124, build 0s  |H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)
+  by seed [120, 116, 116, 116, 116, 116, 116, 116, 120, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116]  (iters best seed 875776)
+  best 120  verify_edit4=True size=120   lev-bad-pairs=0
+
+best overall 120  record 120  log <REPO>/results/edit4_cmis_n6_shortbatch_20260907T163451.json

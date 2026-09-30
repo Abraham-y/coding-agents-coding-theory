@@ -1,0 +1,39 @@
+E_4(6,4): 4096 words, 1994736 conflict edges (lev <= 3); table [28, 32]  (3s)
+   0 prod |H|=48 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   1 prod |H|=24 usable      5 edges        6    2s x3 by seed [16, 16, 16] best    16 verified=True 
+   2 prod |H|=24 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   3 DIAG |H|=24 usable      9 edges       26    2s x3 by seed [28, 28, 28] best    28 verified=True 
+   4 prod |H|=16 usable      6 edges       15    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   5 prod |H|=12 usable     33 edges      490    2s x3 by seed [28, 28, 28] best    28 verified=True 
+   6 prod |H|=12 usable     10 edges       20    2s x3 by seed [16, 16, 16] best    16 verified=True 
+   7 prod |H|= 8 usable     12 edges       30    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   8 prod |H|= 8 usable    100 edges     3648    5s x3 by seed [24, 24, 24] best    24 verified=True 
+   9 prod |H|= 8 usable    198 edges    17805   10s x3 by seed [24, 24, 24] best    24 verified=True 
+  10 prod |H|= 8 usable     26 edges      325    2s x3 by seed [4, 4, 4] best     4 verified=True 
+  11 DIAG |H|= 8 usable     26 edges      325    2s x3 by seed [4, 4, 4] best     4 verified=True 
+  12 DIAG |H|= 8 usable    200 edges    18134   10s x3 by seed [28, 28, 28] best    28 verified=True 
+  13 DIAG |H|= 8 usable    108 edges     4412    5s x3 by seed [28, 28, 28] best    28 verified=True 
+  14 prod |H|= 6 usable    286 edges    34688   14s x3 by seed [25, 25, 25] best    25 verified=True 
+  15 prod |H|= 6 usable     25 edges      216    2s x3 by seed [16, 16, 16] best    16 verified=True 
+  16 DIAG |H|= 6 usable    212 edges    17261   11s x3 by seed [28, 28, 28] best    28 verified=True 
+  17 prod |H|= 4 usable    171 edges     9116    9s x3 by seed [18, 18, 18] best    18 verified=True 
+  18 prod |H|= 4 usable    518 edges    92423   26s x3 by seed [26, 26, 26] best    26 verified=True 
+  19 prod |H|= 4 usable     52 edges      650    3s x3 by seed [4, 4, 4] best     4 verified=True 
+  20 prod |H|= 4 usable    976 edges   373164   30s x3 by seed [28, 28, 28] best    28 verified=True 
+  21 prod |H|= 4 usable    976 edges   372106   30s x3 by seed [28, 28, 28] best    28 verified=True 
+  22 DIAG |H|= 4 usable    171 edges     9364    9s x3 by seed [18, 18, 18] best    18 verified=True 
+  23 DIAG |H|= 4 usable    518 edges    92407   26s x3 by seed [30, 30, 30] best    30 verified=True   *** beats table lower bound 28
+      saved <REPO>/best/editq_n6_d4_size30.txt sha256=d1723cdb71dd0ffad73a9a36dba0633436da5df880d56b7e14114f9a38141507 -- rule 6: bug until re-verified fresh
+  24 DIAG |H|= 4 usable    514 edges    91409   26s x3 by seed [28, 28, 28] best    28 verified=True 
+  25 DIAG |H|= 4 usable    862 edges   273193   30s x3 by seed [28, 28, 28] best    28 verified=True 
+  26 prod |H|= 3 usable    987 edges   304001   30s x3 by seed [28, 28, 28] best    28 verified=True 
+  27 prod |H|= 2 usable   1498 edges   473922   30s x3 by seed [27, 27, 27] best    27 verified=True 
+  28 prod |H|= 2 usable    638 edges   102727   30s x3 by seed [18, 18, 18] best    18 verified=True 
+  29 prod |H|= 2 usable   2016 edges   909580   30s x3 by seed [28, 30, 30] best    30 verified=True   *** beats table lower bound 28
+      saved <REPO>/best/editq_n6_d4_size30.txt sha256=fc6fb24268384a77f148646c7760bb3049b57258d28386310f392f89675a270f -- rule 6: bug until re-verified fresh
+  30 DIAG |H|= 2 usable   1498 edges   477940   30s x3 by seed [30, 30, 30] best    30 verified=True   *** beats table lower bound 28
+      saved <REPO>/best/editq_n6_d4_size30.txt sha256=fc6fb24268384a77f148646c7760bb3049b57258d28386310f392f89675a270f -- rule 6: bug until re-verified fresh
+  31 DIAG |H|= 2 usable   1498 edges   481858   30s x3 by seed [27, 28, 28] best    28 verified=True 
+  32 prod |H|= 1 usable   4096 edges  1994736   30s x3 by seed [24, 25, 25] best    25 verified=True 
+
+best overall 30; table [28, 32]; log <REPO>/results/editq_n6_d4_first_20260907T165437.json

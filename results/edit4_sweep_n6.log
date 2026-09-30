@@ -1,0 +1,65 @@
+Edit4 G(6): 4096 vertices, 21500 cliques
+  |H|=1         4096 orbits -- skipped (exact cap)
+  |H|=1+rev     2080 orbits -- skipped (exact cap)
+  |H|=2         2048 orbits -- skipped (exact cap)
+  |H|=2+rev      640 orbits -> invariant code  102 [timelimit] verify=True
+  |H|=2         2080 orbits -- skipped (exact cap)
+  |H|=2+rev      406 orbits -> invariant code   88 [timelimit] verify=True
+  |H|=2         2080 orbits -- skipped (exact cap)
+  |H|=2+rev      406 orbits -> invariant code   86 [timelimit] verify=True
+  |H|=2         2080 orbits -- skipped (exact cap)
+  |H|=2+rev      406 orbits -> invariant code   86 [timelimit] verify=True
+  |H|=2         2048 orbits -- skipped (exact cap)
+  |H|=2+rev      640 orbits -> invariant code   98 [timelimit] verify=True
+  |H|=2         2080 orbits -- skipped (exact cap)
+  |H|=2+rev      406 orbits -> invariant code   86 [timelimit] verify=True
+  |H|=2         2080 orbits -- skipped (exact cap)
+  |H|=2+rev      406 orbits -> invariant code   86 [timelimit] verify=True
+  |H|=2         2048 orbits -- skipped (exact cap)
+  |H|=2+rev      640 orbits -> invariant code   98 [timelimit] verify=True
+  |H|=2         2080 orbits -- skipped (exact cap)
+  |H|=2+rev      406 orbits -> invariant code   86 [timelimit] verify=True
+  |H|=3         1366 orbits -- skipped (exact cap)
+  |H|=3+rev      456 orbits -> invariant code  106 [timelimit] verify=True
+  |H|=3         1366 orbits -- skipped (exact cap)
+  |H|=3+rev      456 orbits -> invariant code  103 [timelimit] verify=True
+  |H|=3         1366 orbits -- skipped (exact cap)
+  |H|=3+rev      456 orbits -> invariant code  103 [timelimit] verify=True
+  |H|=3         1366 orbits -- skipped (exact cap)
+  |H|=3+rev      456 orbits -> invariant code  100 [timelimit] verify=True
+  |H|=4          352 orbits -> invariant code   84 [timelimit] verify=True
+  |H|=4+rev       59 orbits -> invariant code   40 [OPT] verify=True
+  |H|=4          352 orbits -> invariant code   84 [timelimit] verify=True
+  |H|=4+rev       59 orbits -> invariant code   40 [OPT] verify=True
+  |H|=4         1021 orbits -> invariant code   92 [timelimit] verify=True
+  |H|=4+rev      318 orbits -> invariant code  108 [timelimit] verify=True
+  |H|=4         1021 orbits -> invariant code    8 [timelimit] verify=True
+  |H|=4+rev      318 orbits -> invariant code  108 [timelimit] verify=True
+  |H|=4          352 orbits -> invariant code   84 [timelimit] verify=True
+  |H|=4+rev       59 orbits -> invariant code   40 [OPT] verify=True
+  |H|=4         1021 orbits -> invariant code  100 [timelimit] verify=True
+  |H|=4+rev      211 orbits -> invariant code  104 [OPT] verify=True
+  |H|=4         1021 orbits -> invariant code  100 [timelimit] verify=True
+  |H|=4+rev      318 orbits -> invariant code  104 [timelimit] verify=True
+  |H|=6          187 orbits -> invariant code   70 [OPT] verify=True
+  |H|=6+rev       30 orbits -> invariant code   58 [OPT] verify=True
+  |H|=6          187 orbits -> invariant code   70 [OPT] verify=True
+  |H|=6+rev       30 orbits -> invariant code   58 [OPT] verify=True
+  |H|=6          187 orbits -> invariant code   70 [OPT] verify=True
+  |H|=6+rev       30 orbits -> invariant code   58 [OPT] verify=True
+  |H|=6          187 orbits -> invariant code   70 [OPT] verify=True
+  |H|=6+rev       30 orbits -> invariant code   58 [OPT] verify=True
+  |H|=8          174 orbits -> invariant code   80 [OPT] verify=True
+  |H|=8+rev       20 orbits -> invariant code   40 [OPT] verify=True
+  |H|=8          174 orbits -> invariant code   80 [OPT] verify=True
+  |H|=8+rev       20 orbits -> invariant code   40 [OPT] verify=True
+  |H|=8          174 orbits -> invariant code   80 [OPT] verify=True
+  |H|=8+rev       20 orbits -> invariant code   40 [OPT] verify=True
+  |H|=12         270 orbits -> invariant code  112 [OPT] verify=True
+  |H|=12+rev      48 orbits -> invariant code   76 [OPT] verify=True
+  |H|=24          10 orbits -> invariant code   16 [OPT] verify=True
+  |H|=24+rev       4 orbits -> invariant code   16 [OPT] verify=True
+
+best invariant code found: 112  (|H|=12, proven-invariant-opt=True)
+published best known     : 113
+log: <REPO>/results/edit4_sweep_n6_20260806T025537.json

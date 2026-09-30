@@ -1,0 +1,14 @@
+{
+  "method": "SAT on orbit graph, group=complement",
+  "solver": "Cadical153",
+  "n": 11,
+  "s": 2,
+  "group": "complement",
+  "orbit_target_k": 12,
+  "usable_orbits": 993,
+  "orbit_edges": 222327,
+  "clauses": 724755,
+  "build_seconds": 0.56,
+  "solve_seconds": 388.89,
+  "verdict": "UNKNOWN (budget exhausted)"
+}

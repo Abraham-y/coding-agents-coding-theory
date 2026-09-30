@@ -1,0 +1,8 @@
+E_4(7,5): 16384 words, 51076164 conflict edges (lev <= 4); table [18, 24]  (85s)
+  20 prod |H|= 4 usable   3568 edges  6069906   60s x10 by seed [20, 20, 20, 20, 20, 20, 20, 20, 20, 20] best    20 verified=True   *** beats table lower bound 18
+      saved <REPO>/best/editq_n7_d5_size20_class20.txt sha256=74f19f275251e84fc6cde1a1dc58efedefb314f53d0c830e5021537f7438a553 -- rule 6: bug until re-verified fresh
+  21 prod |H|= 4 usable   3570 edges  6072737   60s x10 by seed [16, 16, 16, 16, 16, 16, 16, 16, 16, 16] best    16 verified=True 
+  25 DIAG |H|= 4 usable   2934 edges  3937749   60s x10 by seed [20, 20, 20, 20, 20, 20, 20, 20, 20, 20] best    20 verified=True   *** beats table lower bound 18
+      saved <REPO>/best/editq_n7_d5_size20_class25.txt sha256=b79989c5a02665a2a084324c684f92c02a4c61f0690092c000dd5185d4293ccc -- rule 6: bug until re-verified fresh
+
+best overall 20; table [18, 24]; log <REPO>/results/editq_n7_d5_push24_20260907T234040.json

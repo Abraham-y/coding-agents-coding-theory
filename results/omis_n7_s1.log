@@ -1,0 +1,16 @@
+		Graph
+==========================================
+IO time:			1.6462
+Filename:			edit4_n7.metis
+|-Nodes:			16384
+|-Edges:			4412748
+
+Size:				288	[0.00812292]
+Size:				342	[0.742478]
+
+		Best
+==========================================
+Size:				342
+Time found:			0.742478
+
+writing independent set to results/omis_n7_s1.mis ... 

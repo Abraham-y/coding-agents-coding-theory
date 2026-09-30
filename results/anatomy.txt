@@ -1,0 +1,15 @@
+filter          : git-tracked results/*.json (any timing key) + *.log Time:
+timed runs      : 91
+total compute   : 89.2 h
+median run      : 625 s
+over one hour   : 22
+top three       : 32.9 h (37% of logged)
+unlogged (core-h): 255  (tensor-rank F_3 search (tensor-rank-f3/README.md))
+top three share of logged+unlogged: 10%
+     <10s: 12
+   10s-1m: 17
+   1m-10m: 16
+   10m-1h: 24
+    1h-6h: 19
+      >6h: 3
+bolded log entries: 25

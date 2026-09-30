@@ -1,0 +1,4 @@
+our ILS on the RAW 4096-vertex graph, 180 core-min
+  by seed: [111, 109, 109, 109]   best 111
+  ReduMIS on the same graph, 21.7 core-min: 113
+  same operator on the 1021-orbit graph, 8.5 core-min: 116 (1 seed in 10)

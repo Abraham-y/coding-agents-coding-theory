@@ -1,0 +1,27 @@
+{
+  "method": "iterated local search (ARW-style 1,2-swaps + plateau)",
+  "n": 9,
+  "s": 2,
+  "seconds_per_worker": 20.0,
+  "workers": 1,
+  "base_seed": 7,
+  "wall_seconds": 20.03,
+  "best_size": 11,
+  "sizes_by_seed": {
+    "7": 11
+  },
+  "total_iters": 35872,
+  "best_words": [
+    "000000000",
+    "000000111",
+    "000101100",
+    "001100010",
+    "011011011",
+    "100011111",
+    "101001001",
+    "111000000",
+    "111001110",
+    "111110001",
+    "111111111"
+  ]
+}

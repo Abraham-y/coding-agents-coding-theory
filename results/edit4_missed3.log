@@ -1,0 +1,7 @@
+classes the buggy 2-generator enumeration missed: 3
+
+  |H|= 8 product  560 orbits (59 usable, 388 words available)  best=  40  verified=True
+  |H|= 8 product  544 orbits (211 usable, 1444 words available)  best= 104  verified=True
+  |H|=16 product  288 orbits (20 usable, 132 words available)  best=  40  verified=True
+
+best over the three missed classes: 104   (record: 116)

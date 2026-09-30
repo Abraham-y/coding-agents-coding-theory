@@ -1,0 +1,8 @@
+{
+  "graph": "graphs/edit4_n6_orbit_class20.txt",
+  "k": 1021,
+  "m": 96657,
+  "theta_float": 45.14608711350412,
+  "solver": "SCS",
+  "seconds": 2340.9
+}

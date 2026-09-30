@@ -1,0 +1,40 @@
+{
+  "k": 1,
+  "alpha_numerator": 2,
+  "alpha_denominator": 1,
+  "alpha_str": "2",
+  "published": "2",
+  "matches_published": true,
+  "base_float_display_only": 2.5,
+  "num_hard_inputs": 3,
+  "elapsed_seconds": 0.0,
+  "iterations": [
+    {
+      "iter": 0,
+      "alpha_in": "0",
+      "rho": "1",
+      "Pq": "2",
+      "Pm": "2/3",
+      "alpha_out": "3/2",
+      "states": 19
+    },
+    {
+      "iter": 1,
+      "alpha_in": "3/2",
+      "rho": "1/6",
+      "Pq": "4/3",
+      "Pm": "1/3",
+      "alpha_out": "2",
+      "states": 19
+    },
+    {
+      "iter": 2,
+      "alpha_in": "2",
+      "rho": "0",
+      "Pq": "4/3",
+      "Pm": "1/3",
+      "alpha_out": "2",
+      "states": 19
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+		Graph
+==========================================
+IO time:			13.1303
+Filename:			del_n13_s3.metis
+|-Nodes:			8192
+|-Edges:			30302890
+
+		Configuration
+==========================================
+Population size:		50
+Repetitions:			50
+Time limit:			14400
+---
+KaHIP mode:			0
+---
+Seed:				1
+Base imbalance:			0.03
+Random imbalance:		1
+---
+Tournament size:		2
+---
+Mutation rate:			1
+---
+Use Multiway-VC:		0
+Multiway blocks:		64
+---
+Apply all reductions:		1
+Reductions threshold:		350
+---
+Insert threshold:		150
+Pool threshold:			250
+---
+ILS iterations:			15000
+---
+No. of partitions:		10
+No. of separators:		10
+No. of k-partitions:		10
+No. of k-separators:		10
+
+block weight upper bound 3646
+Partition [Seed: 235, K: 2]
+block weight upper bound 3759
+Partition [Seed: 6140, K: 2]
+block weight upper bound 3816
+Partition [Seed: 9145, K: 2]
+block weight upper bound 3745
+Partition [Seed: 5406, K: 2]
+block weight upper bound 3716
+Partition [Seed: 3893, K: 2]
+block weight upper bound 3740
+Partition [Seed: 5164, K: 2]
+block weight upper bound 3645
+Partition [Seed: 150, K: 2]
+block weight upper bound 3736
+Partition [Seed: 4965, K: 2]
+block weight upper bound 3687
+Partition [Seed: 2357, K: 2]
+block weight upper bound 3646
+Partition [Seed: 208, K: 2]
+block weight upper bound 3670
+Separator [Seed: 1459, K: 2, Size: 3269]
+block weight upper bound 3808
+Separator [Seed: 8712, K: 2, Size: 3131]
+block weight upper bound 3748
+Separator [Seed: 5597, K: 2, Size: 3191]
+block weight upper bound 3687
+Separator [Seed: 2368, K: 2, Size: 3252]
+block weight upper bound 3692
+Separator [Seed: 2632, K: 2, Size: 3247]
+block weight upper bound 3763
+Separator [Seed: 6381, K: 2, Size: 3176]
+block weight upper bound 3784
+Separator [Seed: 7468, K: 2, Size: 3155]
+block weight upper bound 3796
+Separator [Seed: 8095, K: 2, Size: 3143]
+block weight upper bound 3816
+Separator [Seed: 9145, K: 2, Size: 3123]
+block weight upper bound 3745
+Separator [Seed: 5406, K: 2, Size: 3194]
+block weight upper bound 130
+Separator [Seed: 3893, K: 57, Size: 6923]
+block weight upper bound 2494
+Separator [Seed: 5218, K: 3, Size: 4595]
+block weight upper bound 207
+Separator [Seed: 9995, K: 37, Size: 6920]
+block weight upper bound 191
+Separator [Seed: 4428, K: 39, Size: 6928]
+block weight upper bound 264
+Separator [Seed: 2775, K: 28, Size: 6603]
+block weight upper bound 1862
+Separator [Seed: 4263, K: 4, Size: 5077]
+block weight upper bound 181
+Separator [Seed: 3711, K: 41, Size: 6923]
+block weight upper bound 264
+Separator [Seed: 3337, K: 28, Size: 6603]
+block weight upper bound 758
+Separator [Seed: 7810, K: 10, Size: 5882]
+block weight upper bound 420
+Separator [Seed: 7287, K: 18, Size: 6440]
+0		Initial		10	12	760.394
+0		Initial		13	15	761.421
+
+Round:				1
+Best solution:			15
+Time:				784.123
+
+1		Vertex cover	14	16	1866.47
+12		Combine reduction	14	16	15125.2
+
+		Statistics
+==========================================
+Total time:			15139.7
+Evolution time:			15126.6
+Number of rounds:		1
+Number of repetitions:		12
+
+Operator	Times selected	Improvements	Avg. time	Avg. improv
+--------------------------------------------------------------------------------
+Vertex cover	3		0		719.151	0
+Node separator	4		0		1335.27	0
+Multiway	5		0		1255.12	0
+
+		Best
+==========================================
+Size:				16
+Time found:			15125.2
+Operator:			Combine reduction
+Repetition number:		12
+Round number:			1
+
+writing independent set to results/kamis_del13_3_s1.mis ... 
+checking solution ...
+done ...
+Independent set has size 16

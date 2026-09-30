@@ -1,0 +1,29 @@
+Edit4 G(6): 4096 vertices, 21500 cliques (0.2s)
+
+=== CALIBRATION: trivial (= unrestricted problem) ===
+  4096 orbits (4096 usable), 392358 edges, wall 903s
+  by seed: [110, 109, 109, 109]
+  best 110  verified=True 
+  bar for calibration: 111 (repo ILS) / 113 (KaMIS)
+
+=== reversal only ===
+  2080 orbits (1498 usable), 104874 edges, wall 901s
+  by seed: [107, 106, 106, 106]
+  best 107  verified=True 
+
+=== transposition (0 1) ===
+  2080 orbits (1359 usable), 96182 edges, wall 902s
+  by seed: [95, 95, 95, 95]
+  best 95  verified=True 
+
+=== double transposition (0 1)(2 3) ===
+  2048 orbits (2046 usable), 195224 edges, wall 902s
+  by seed: [112, 110, 108, 108]
+  best 112  verified=True 
+
+=== 3-cycle (0 1 2) ===
+  1366 orbits (1295 usable), 115814 edges, wall 902s
+  by seed: [109, 109, 109, 109]
+  best 109  verified=True 
+
+log: <REPO>/results/edit4_orbit_batch_n6_20260814T013427.json

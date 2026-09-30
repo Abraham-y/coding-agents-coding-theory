@@ -1,0 +1,13 @@
+{
+  "graph": "graphs/editq_n8_d6_orbit_class12.txt",
+  "k": 265,
+  "m": 34522,
+  "optimum_weight": 16,
+  "selected": [
+    84,
+    94,
+    183
+  ],
+  "seconds": 0.0,
+  "violations": 0
+}

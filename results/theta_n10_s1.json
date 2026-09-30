@@ -1,0 +1,9 @@
+{
+  "method": "Lovasz theta SDP, dual certified in exact rational arithmetic",
+  "n": 10,
+  "s": 1,
+  "vertices": 1024,
+  "edges": 24063,
+  "theta_float_untrusted": 95.98476333308778,
+  "elapsed_seconds": 4122.43
+}

@@ -1,0 +1,39 @@
+E_4(7,5): 16384 words, 51076164 conflict edges (lev <= 4); table [18, 24]  (65s)
+   0 prod |H|=48 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   1 prod |H|=24 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   2 prod |H|=24 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   3 DIAG |H|=24 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   4 prod |H|=16 usable      4 edges        6    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   5 prod |H|=12 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   6 prod |H|=12 usable      6 edges       10    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   7 prod |H|= 8 usable      8 edges       12    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   8 prod |H|= 8 usable     40 edges      750    2s x3 by seed [12, 12, 12] best    12 verified=True 
+   9 prod |H|= 8 usable    106 edges     5325    5s x3 by seed [16, 16, 16] best    16 verified=True 
+  10 prod |H|= 8 usable     40 edges      780    2s x3 by seed [4, 4, 4] best     4 verified=True 
+  11 DIAG |H|= 8 usable     40 edges      780    2s x3 by seed [4, 4, 4] best     4 verified=True 
+  12 DIAG |H|= 8 usable    108 edges     5586    5s x3 by seed [16, 16, 16] best    16 verified=True 
+  13 DIAG |H|= 8 usable     40 edges      714    2s x3 by seed [12, 12, 12] best    12 verified=True 
+  14 prod |H|= 6 usable    246 edges    27826   12s x3 by seed [16, 16, 16] best    16 verified=True 
+  15 prod |H|= 6 usable     30 edges      406    2s x3 by seed [4, 4, 4] best     4 verified=True 
+  16 DIAG |H|= 6 usable    108 edges     4955    5s x3 by seed [16, 16, 16] best    16 verified=True 
+  17 prod |H|= 4 usable     74 edges     1505    4s x3 by seed [8, 8, 8] best     8 verified=True 
+  18 prod |H|= 4 usable    472 edges    92638   24s x3 by seed [18, 18, 18] best    18 verified=True 
+  19 prod |H|= 4 usable     80 edges     1560    4s x3 by seed [4, 4, 4] best     4 verified=True 
+  20 prod |H|= 4 usable   3568 edges  6069906   30s x3 by seed [20, 20, 20] best    20 verified=True   *** beats table lower bound 18
+      saved <REPO>/best/editq_n7_d5_size20_class20.txt sha256=74f19f275251e84fc6cde1a1dc58efedefb314f53d0c830e5021537f7438a553 -- rule 6: bug until re-verified fresh
+  21 prod |H|= 4 usable   3570 edges  6072737   30s x3 by seed [16, 16, 16] best    16 verified=True 
+  22 DIAG |H|= 4 usable     84 edges     2612    4s x3 by seed [12, 12, 12] best    12 verified=True 
+  23 DIAG |H|= 4 usable    476 edges    95302   24s x3 by seed [16, 16, 16] best    16 verified=True 
+  24 DIAG |H|= 4 usable    932 edges   409706   30s x3 by seed [16, 16, 16] best    16 verified=True 
+  25 DIAG |H|= 4 usable   2934 edges  3937749   30s x3 by seed [20, 20, 20] best    20 verified=True   *** beats table lower bound 18
+      saved <REPO>/best/editq_n7_d5_size20_class25.txt sha256=b79989c5a02665a2a084324c684f92c02a4c61f0690092c000dd5185d4293ccc -- rule 6: bug until re-verified fresh
+  26 prod |H|= 3 usable   3008 edges  3832691   30s x3 by seed [16, 16, 16] best    16 verified=True 
+  27 prod |H|= 2 usable   2248 edges  1568016   30s x3 by seed [19, 19, 19] best    19 verified=True   *** beats table lower bound 18
+      saved <REPO>/best/editq_n7_d5_size19_class27.txt sha256=d5ca0bed192efcef5aa0ab79f3b14206036972d70eabbac0e071715eacc3ade2 -- rule 6: bug until re-verified fresh
+  28 prod |H|= 2 usable   1362 edges   663833   30s x3 by seed [12, 12, 12] best    12 verified=True 
+  29 prod |H|= 2 usable   7840 edges 20172642   30s x3 by seed [18, 18, 18] best    18 verified=True 
+  30 DIAG |H|= 2 usable   3188 edges  3291806   30s x3 by seed [18, 18, 18] best    18 verified=True 
+  31 DIAG |H|= 2 usable   4276 edges  6014956   30s x3 by seed [18, 18, 18] best    18 verified=True 
+  32 prod |H|= 1 usable  16384 edges 51076164   30s x3 by seed [17, 18, 18] best    18 verified=True 
+
+best overall 20; table [18, 24]; log <REPO>/results/editq_n7_d5_first_20260907T231950.json

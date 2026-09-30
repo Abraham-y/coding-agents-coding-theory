@@ -1,0 +1,57 @@
+{
+  "k": 3,
+  "alpha_str": "12231/2203",
+  "alpha_numerator": 12231,
+  "alpha_denominator": 2203,
+  "published": "12231/2203",
+  "matches_published": true,
+  "base_float_display_only": 2.5647429832539506,
+  "states": 3141,
+  "elapsed_seconds": 0.6,
+  "iterations": [
+    {
+      "iter": 0,
+      "alpha_in": "0",
+      "rho": "1",
+      "Pq": "8",
+      "Pm": "8/27",
+      "alpha_out": "27/8",
+      "states": 3141,
+      "forced": 3029,
+      "seconds": 0.1
+    },
+    {
+      "iter": 1,
+      "alpha_in": "27/8",
+      "rho": "167/648",
+      "Pq": "160/27",
+      "Pm": "313/2187",
+      "alpha_out": "1620/313",
+      "states": 3141,
+      "forced": 3029,
+      "seconds": 0.1
+    },
+    {
+      "iter": 2,
+      "alpha_in": "1620/313",
+      "rho": "3203/76059",
+      "Pq": "1208/243",
+      "Pm": "2203/19683",
+      "alpha_out": "12231/2203",
+      "states": 3141,
+      "forced": 3029,
+      "seconds": 0.2
+    },
+    {
+      "iter": 3,
+      "alpha_in": "12231/2203",
+      "rho": "0",
+      "Pq": "1208/243",
+      "Pm": "2203/19683",
+      "alpha_out": "12231/2203",
+      "states": 3141,
+      "forced": 3029,
+      "seconds": 0.2
+    }
+  ]
+}

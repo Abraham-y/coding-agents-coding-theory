@@ -1,0 +1,33 @@
+{
+  "source": "transcription of arXiv:1309.7565v1 Appendix A",
+  "k": 1,
+  "alpha_str": "2",
+  "alpha_numerator": 2,
+  "alpha_denominator": 1,
+  "published": "2",
+  "matches_published": true,
+  "stable_config_counts": [
+    2,
+    3
+  ],
+  "base_float_display_only": 2.5,
+  "elapsed_seconds": 0.0,
+  "iterations": [
+    {
+      "iter": 1,
+      "alpha": "3/2",
+      "ot_last": [
+        2,
+        6
+      ]
+    },
+    {
+      "iter": 2,
+      "alpha": "2",
+      "ot_last": [
+        1,
+        4
+      ]
+    }
+  ]
+}

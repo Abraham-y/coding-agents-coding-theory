@@ -1,0 +1,5 @@
+class 27: |H|=2 prod 29434 usable, 4803696 edges, sizes {1: 256, 2: 29178}, next>1132: 1133, build 3s  |H|=2 product [proj|S4|=1, rev] gen~(0, 1, 2, 3)+rev
+  by seed [1111, 1114, 1115, 1114]  (iters best seed 161472)
+  best 1115  verify_edit4=True size=1115   lev-bad-pairs=0
+
+best overall 1115  record 1132  log <REPO>/results/edit4_cmis_n8_n8c27_20260907T232421.json

@@ -1,0 +1,44 @@
+{
+  "n": 11,
+  "s": 2,
+  "target": 23,
+  "cells": [
+    {
+      "group": "comp=True rev=True (|G|=4)",
+      "usable": 185,
+      "best": 22,
+      "by_seed": [
+        22,
+        22,
+        22
+      ],
+      "verified": true
+    },
+    {
+      "group": "comp=True rev=False (|G|=2)",
+      "usable": 993,
+      "best": 24,
+      "by_seed": [
+        24,
+        24,
+        24
+      ],
+      "verified": true
+    },
+    {
+      "group": "comp=False rev=True (|G|=2)",
+      "usable": 484,
+      "best": 24,
+      "by_seed": [
+        24,
+        24,
+        24
+      ],
+      "verified": true
+    }
+  ],
+  "best": 24,
+  "seeds": 3,
+  "seconds": 120.0,
+  "elapsed_seconds": 362.1
+}

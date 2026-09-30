@@ -1,0 +1,6 @@
+  CALIBRATION trivial    16384 usable  40 core-min  best  348  seeds [348, 347, 344, 342]  verified=True
+  missed |H|=8             736 usable  40 core-min  best  284  seeds [284, 280, 280, 280]  verified=True
+  missed |H|=8            1270 usable  40 core-min  best  340  seeds [340, 340, 340, 340]  verified=True
+  missed |H|=16            246 usable  40 core-min  best  264  seeds [264, 264, 264, 264]  verified=True
+
+best over the 3 late classes: 340  (record 356)

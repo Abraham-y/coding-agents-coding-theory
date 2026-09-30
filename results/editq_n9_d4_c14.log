@@ -1,0 +1,7 @@
+class 14: |H|=6 prod 39793 usable, 77434166 edges, sizes {1: 1, 6: 39468, 3: 324}, next>495: 496, build 0s  |H|=6 product [proj|S4|=3, rev] gen~(0, 1, 2, 3)+rev
+  by seed [517, 514]  (iters best seed 116864)
+  best 517  verify_edit4=True size=517   lev-bad-pairs=0
+  *** 517 > record 495: saved <REPO>/best/editq_n9_d4_size517_class14.txt sha256=61d94fd3a3f4a1a223d7ca9afffe97c95011b7aecb82417d8652df8d0628d1c0
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 517  record 495  log <REPO>/results/edit4_cmis_n9_n9d4c14_20260908T112832.json

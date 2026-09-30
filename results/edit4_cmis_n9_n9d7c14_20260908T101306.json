@@ -1,0 +1,38 @@
+{
+  "n": 9,
+  "engine": "search/mis_ils.c",
+  "seeds": 2,
+  "seed0": 1,
+  "seconds": 60.0,
+  "init": null,
+  "target": null,
+  "cells": [
+    {
+      "class_index": 14,
+      "name": "|H|=6 product [proj|S4|=3, rev] gen~(0, 1, 2, 3)+rev",
+      "order": 6,
+      "diagonal": false,
+      "orbits_usable": 349,
+      "orbit_edges": 60142,
+      "orbit_sizes": {
+        "1": 1,
+        "6": 210,
+        "3": 138
+      },
+      "by_seed": [
+        10,
+        10
+      ],
+      "seeds": [
+        1,
+        2
+      ],
+      "best": 10,
+      "verified": true,
+      "size": 10,
+      "next_attainable_above_record": 12,
+      "wall_seconds": 120.0
+    }
+  ],
+  "elapsed_seconds": 127.0
+}

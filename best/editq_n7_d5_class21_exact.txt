@@ -1,0 +1,23 @@
+# quaternary edit-metric code, minimum Levenshtein distance 5
+# n = 7
+# d = 5
+# q = 4
+# size = 16
+# EXACT optimum within its symmetry class (max clique of the compatibility graph, networkx)
+# sha256(codewords) = 539fa7b7eb3649b7b876e0fc6c9f5d0ac48c60bb6537fa4b58155664c5834a5a
+0002311
+0020002
+0033223
+0321210
+1113200
+1122332
+1131113
+1230301
+2013132
+2200110
+2212221
+2221033
+3102023
+3303330
+3311001
+3330122

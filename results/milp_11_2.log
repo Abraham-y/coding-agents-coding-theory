@@ -1,0 +1,10 @@
+MILP: 2048 binary vars, 512 clique constraints
+status 1: Time limit reached. (HiGHS Status 13: Time limit reached)
+elapsed 1800.1s
+incumbent size 23
+  verify.py : valid=True score=23 
+  verify2.py: valid=True score=23 
+  solver best bound (NOT a certificate): 32.0000
+  artifact  : <REPO>/best/n11_s2_size23_milp.txt
+  checksum  : 05f517c6a8b4d46f175ec6d6da3220295b184de2689e25786368c24502e5d587
+  log       : <REPO>/results/settle_n11_s2_20260803T113548.json

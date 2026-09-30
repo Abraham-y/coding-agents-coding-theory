@@ -1,0 +1,27 @@
+{
+  "method": "prescribed-symmetry orbit MWIS, group=complement",
+  "n": 8,
+  "s": 2,
+  "group": "complement",
+  "usable_orbits": 111,
+  "dropped_orbits": 17,
+  "seconds_per_worker": 20.0,
+  "workers": 4,
+  "base_seed": 3,
+  "wall_seconds": 20.14,
+  "best_size": 6,
+  "sizes_by_seed": {
+    "3": 6,
+    "4": 6,
+    "5": 6,
+    "6": 6
+  },
+  "best_words": [
+    "00000000",
+    "00011110",
+    "00100011",
+    "11011100",
+    "11100001",
+    "11111111"
+  ]
+}

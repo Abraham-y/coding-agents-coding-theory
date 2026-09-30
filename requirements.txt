@@ -1,0 +1,6 @@
+numpy
+scipy
+# optional: needed only by suites unrelated to this paper's claims
+cvxpy          # Lovasz theta bounds
+python-sat     # MaxSAT cross-check of the A_4 optimality result
+highspy        # MILP baselines

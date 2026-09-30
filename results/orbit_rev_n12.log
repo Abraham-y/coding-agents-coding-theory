@@ -1,0 +1,5 @@
+orbit graph: 1156 usable orbits (924 dropped for internal conflict), weights [1, 2]
+n=12 s=2 group=reversal wall=241.2s
+best size : 36  (from 21 orbits)
+by seed   : {'45': 36, '41': 35, '42': 35, '43': 35, '44': 35}
+log       : <REPO>/results/open_cell_reversal_n12_s2_20260803T025758.json

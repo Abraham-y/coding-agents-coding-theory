@@ -1,0 +1,48 @@
+E_4(7,4): 16384 words, 14350338 conflict edges (lev <= 3); table [65, 128]  (32s)
+   0 prod |H|=48 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   1 prod |H|=24 usable     71 edges     2349    4s x3 by seed [64, 64, 64] best    64 verified=True 
+   2 prod |H|=24 usable      1 edges        0    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   3 DIAG |H|=24 usable     91 edges     3413    5s x3 by seed [64, 64, 64] best    64 verified=True 
+   4 prod |H|=16 usable      7 edges       21    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   5 prod |H|=12 usable    669 edges   187134   33s x3 by seed [64, 64, 64] best    64 verified=True 
+   6 prod |H|=12 usable     43 edges      357    2s x3 by seed [37, 37, 37] best    37 verified=True 
+   7 prod |H|= 8 usable     14 edges       42    2s x3 by seed [4, 4, 4] best     4 verified=True 
+   8 prod |H|= 8 usable    667 edges   140241   33s x3 by seed [64, 64, 64] best    64 verified=True 
+   9 prod |H|= 8 usable   1277 edges   523268   60s x3 by seed [72, 72, 72] best    72 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size72.txt sha256=808a6c22897d6702bb5b9c756f4fda428db02840b496ee582e6b4fcb4ca28f2b -- rule 6: bug until re-verified fresh
+  10 prod |H|= 8 usable     57 edges     1596    3s x3 by seed [4, 4, 4] best     4 verified=True 
+  11 DIAG |H|= 8 usable     57 edges     1596    3s x3 by seed [4, 4, 4] best     4 verified=True 
+  12 DIAG |H|= 8 usable   1277 edges   523504   60s x3 by seed [72, 72, 72] best    72 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size72.txt sha256=85cb1ceb68de50ccc1566cddddc8240d28b328cbb2b688e8cc0520bc74aeb391 -- rule 6: bug until re-verified fresh
+  13 DIAG |H|= 8 usable    669 edges   140368   33s x3 by seed [64, 64, 64] best    64 verified=True 
+  14 prod |H|= 6 usable   1827 edges   863859   60s x3 by seed [70, 70, 70] best    70 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size70.txt sha256=57e59f9bb41241405b2aede2dbcfb6353bbc4c3169cc29f037f08b060afdacc2 -- rule 6: bug until re-verified fresh
+  15 prod |H|= 6 usable    197 edges     9094   10s x3 by seed [37, 37, 37] best    37 verified=True 
+  16 DIAG |H|= 6 usable   1347 edges   464339   60s x3 by seed [70, 70, 70] best    70 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size70.txt sha256=177ea7a7d5f5879182afd927a48a93ee9401cf715d493bd8a62aa99438fc7fcf -- rule 6: bug until re-verified fresh
+  17 prod |H|= 4 usable   1285 edges   351099   60s x3 by seed [57, 57, 57] best    57 verified=True 
+  18 prod |H|= 4 usable   2662 edges  1353076   60s x3 by seed [68, 66, 66] best    68 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size68.txt sha256=cd54250b096a9bbfc2922f800e2d0039770f30a471ce095873e09d5fce8b76ba -- rule 6: bug until re-verified fresh
+  19 prod |H|= 4 usable    114 edges     3192    6s x3 by seed [4, 4, 4] best     4 verified=True 
+  20 prod |H|= 4 usable   4039 edges  3320235   60s x3 by seed [68, 68, 68] best    68 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size68.txt sha256=545f33d3b9a2e12c94084e091fa15686f0454d80ce7aec131d49ff2ed43895bf -- rule 6: bug until re-verified fresh
+  21 prod |H|= 4 usable   4039 edges  3310421   60s x3 by seed [64, 68, 68] best    68 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size68.txt sha256=c5f7d7477700e629fc0984b35083bc9eaa1be27f79ef27b37e3c390f2b304064 -- rule 6: bug until re-verified fresh
+  22 DIAG |H|= 4 usable   1208 edges   331251   60s x3 by seed [56, 56, 56] best    56 verified=True 
+  23 DIAG |H|= 4 usable   2662 edges  1352122   60s x3 by seed [68, 68, 68] best    68 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size68.txt sha256=dd819ce954d08d6c477edd47726eeb6fa0a7c3f293d60b990c31fcef01dd5291 -- rule 6: bug until re-verified fresh
+  24 DIAG |H|= 4 usable   2549 edges  1307868   60s x3 by seed [64, 64, 64] best    64 verified=True 
+  25 DIAG |H|= 4 usable   3989 edges  3072050   60s x3 by seed [64, 68, 68] best    68 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size68.txt sha256=6bf543b82f9a2979e86fa5327b634bb1447809b25b5de96b6011ec1d7c5c5ccb -- rule 6: bug until re-verified fresh
+  26 prod |H|= 3 usable   4777 edges  3475154   60s x3 by seed [67, 64, 64] best    67 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size67.txt sha256=c013ec89a7f34c4466dee0656d7222748e2e2526282b27f0b79e0986a20c7460 -- rule 6: bug until re-verified fresh
+  27 prod |H|= 2 usable   6844 edges  4713624   60s x3 by seed [66, 66, 66] best    66 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size66.txt sha256=b3ca3f34c6f545e6c93a7a9a97b59f5b8e9fe53999b42756592227a742d73fce -- rule 6: bug until re-verified fresh
+  28 prod |H|= 2 usable   3757 edges  1809851   60s x3 by seed [53, 55, 55] best    55 verified=True 
+  29 prod |H|= 2 usable   8154 edges  6995948   60s x3 by seed [64, 64, 64] best    64 verified=True 
+  30 DIAG |H|= 2 usable   6721 edges  4641355   60s x3 by seed [66, 66, 66] best    66 verified=True   *** beats table lower bound 65
+      saved <REPO>/best/editq_n7_d4_size66.txt sha256=6763e6e12142c0c13a3ed430a91e6416c139e1753e6dcbe0e3e85d8a7adde599 -- rule 6: bug until re-verified fresh
+  31 DIAG |H|= 2 usable   6598 edges  4570948   60s x3 by seed [64, 62, 64] best    64 verified=True 
+  32 prod |H|= 1 usable  16384 edges 14350338   60s x3 by seed [63, 62, 63] best    63 verified=True 
+
+best overall 72; table [65, 128]; log <REPO>/results/editq_n7_d4_first_20260907T170716.json

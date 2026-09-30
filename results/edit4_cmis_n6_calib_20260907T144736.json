@@ -1,0 +1,112 @@
+{
+  "n": 6,
+  "engine": "search/mis_ils.c",
+  "seeds": 6,
+  "seed0": 1,
+  "seconds": 60.0,
+  "init": null,
+  "target": 124,
+  "cells": [
+    {
+      "class_index": 20,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 1021,
+      "orbit_edges": 96657,
+      "orbit_sizes": {
+        "4": 1021
+      },
+      "by_seed": [
+        116,
+        116,
+        116,
+        116,
+        116,
+        120
+      ],
+      "seeds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "best": 120,
+      "verified": true,
+      "size": 120,
+      "next_attainable_above_record": 124,
+      "wall_seconds": 60.9,
+      "artifact": "<REPO>/best/edit4_n6_cmis_size120.txt",
+      "sha256": "f4b8e65943d54c8797e8c67918f48281123c6ec288576faf12bbc088a295e7ae"
+    },
+    {
+      "class_index": 21,
+      "name": "|H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": false,
+      "orbits_usable": 1021,
+      "orbit_edges": 96595,
+      "orbit_sizes": {
+        "4": 1021
+      },
+      "by_seed": [
+        116,
+        116,
+        116,
+        116,
+        120,
+        116
+      ],
+      "seeds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "best": 120,
+      "verified": true,
+      "size": 120,
+      "next_attainable_above_record": 124,
+      "wall_seconds": 60.4,
+      "artifact": "<REPO>/best/edit4_n6_cmis_size120.txt",
+      "sha256": "70349cf811682484b02cad9d5d2ae32f82518316ad1910953e5f60c850a99a08"
+    },
+    {
+      "class_index": 25,
+      "name": "|H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)",
+      "order": 4,
+      "diagonal": true,
+      "orbits_usable": 1021,
+      "orbit_edges": 94257,
+      "orbit_sizes": {
+        "4": 1021
+      },
+      "by_seed": [
+        116,
+        116,
+        116,
+        116,
+        116,
+        116
+      ],
+      "seeds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "best": 116,
+      "verified": true,
+      "size": 116,
+      "next_attainable_above_record": 124,
+      "wall_seconds": 60.4
+    }
+  ],
+  "elapsed_seconds": 187.4
+}

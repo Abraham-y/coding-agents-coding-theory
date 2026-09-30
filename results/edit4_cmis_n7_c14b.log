@@ -1,0 +1,4 @@
+class 14: |H|=6 prod 2218 usable, 235561 edges, sizes {1: 1, 6: 2136, 3: 81}, next>356: 357, build 0s  |H|=6 product [proj|S4|=3, rev] gen~(0, 1, 2, 3)+rev
+  by seed [355, 355, 355]  (iters best seed 516160)
+  best 355  verify_edit4=True size=355   lev-bad-pairs=0
+best overall 355  record 356  log <REPO>/results/edit4_cmis_n7_n7c14b_20260907T161627.json

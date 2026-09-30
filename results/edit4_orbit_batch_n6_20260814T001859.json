@@ -1,0 +1,86 @@
+{
+  "n": 6,
+  "seeds": [
+    1,
+    2
+  ],
+  "seconds": 8.0,
+  "workers": 2,
+  "calibration_best": 106,
+  "calibration_bar": 111,
+  "cells": [
+    {
+      "cell": "CALIBRATION: trivial (= unrestricted problem)",
+      "order": 1,
+      "reversal": false,
+      "orbits_total": 4096,
+      "orbits_usable": 4096,
+      "orbit_edges": 392358,
+      "by_seed": {
+        "2": 106,
+        "1": 105
+      },
+      "best": 106,
+      "verified": true
+    },
+    {
+      "cell": "reversal only",
+      "order": 1,
+      "reversal": true,
+      "orbits_total": 2080,
+      "orbits_usable": 1498,
+      "orbit_edges": 104874,
+      "by_seed": {
+        "2": 102,
+        "1": 101
+      },
+      "best": 102,
+      "verified": true
+    },
+    {
+      "cell": "transposition (0 1)",
+      "order": 2,
+      "reversal": false,
+      "orbits_total": 2080,
+      "orbits_usable": 1359,
+      "orbit_edges": 96182,
+      "by_seed": {
+        "1": 93,
+        "2": 93
+      },
+      "best": 93,
+      "verified": true
+    },
+    {
+      "cell": "double transposition (0 1)(2 3)",
+      "order": 2,
+      "reversal": false,
+      "orbits_total": 2048,
+      "orbits_usable": 2046,
+      "orbit_edges": 195224,
+      "by_seed": {
+        "1": 108,
+        "2": 106
+      },
+      "best": 108,
+      "verified": true
+    },
+    {
+      "cell": "3-cycle (0 1 2)",
+      "order": 3,
+      "reversal": false,
+      "orbits_total": 1366,
+      "orbits_usable": 1295,
+      "orbit_edges": 115814,
+      "by_seed": {
+        "1": 106,
+        "2": 106
+      },
+      "best": 106,
+      "verified": true
+    }
+  ],
+  "published_best": 113,
+  "literature_best": 114,
+  "elapsed_seconds": 46.3
+}

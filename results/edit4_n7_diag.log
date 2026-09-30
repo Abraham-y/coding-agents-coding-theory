@@ -1,0 +1,33 @@
+Edit4 G(7): 16384 vertices, 86012 cliques (1s)
+       |H|=48     8 usable  build 30s  30s x4  best   100  next>356: None  verified=True 
+       |H|=24   367 usable  build 62s  61s x4  best   340  next>356: 360  verified=True 
+       |H|=24   109 usable  build 31s  30s x4  best   208  next>356: 360  verified=True 
+  DIAG |H|=24   281 usable  build 48s  47s x4  best   340  next>356: 360  verified=True 
+       |H|=12   339 usable  build 57s  56s x4  best   259  next>356: 357  verified=True 
+       |H|=12  1265 usable  build 213s  211s x4  best   340  next>356: 360  verified=True 
+       |H|= 8  1554 usable  build 261s  259s x4  best   348  next>356: 360  verified=True 
+       |H|= 8  1127 usable  build 189s  188s x4  best   296  next>356: 360  verified=True 
+  DIAG |H|= 8   821 usable  build 138s  137s x4  best   272  next>356: 360  verified=True 
+  DIAG |H|= 8  1554 usable  build 261s  259s x4  best   352  next>356: 360  verified=True 
+  DIAG |H|= 8  1272 usable  build 214s  212s x4  best   340  next>356: 360  verified=True 
+       |H|= 6  2218 usable  build 372s  370s x4  best   355  next>356: 357  verified=True 
+       |H|= 6  1222 usable  build 205s  204s x4  best   268  next>356: 357  verified=True 
+  DIAG |H|= 6  1818 usable  build 305s  303s x4  best   340  next>356: 357  verified=True 
+       |H|= 4  2371 usable  build 398s  395s x4  best   317  next>356: 357  verified=True 
+       |H|= 4  3114 usable  build 523s  519s x4  best   346  next>356: 358  verified=True 
+       |H|= 4  2258 usable  build 378s  376s x4  best   284  next>356: 358  verified=True 
+  DIAG |H|= 4  2608 usable  build 438s  435s x4  best   316  next>356: 358  verified=True 
+  DIAG |H|= 4  3114 usable  build 522s  519s x4  best   342  next>356: 358  verified=True 
+       |H|= 4  4093 usable  build 605s  600s x4  best   348  next>356: 360  verified=True 
+  DIAG |H|= 4  3447 usable  build 578s  574s x4  best   340  next>356: 360  verified=True 
+       |H|= 4  4093 usable  build 605s  600s x4  best   348  next>356: 360  verified=True 
+  DIAG |H|= 4  4091 usable  build 605s  600s x4  best   348  next>356: 360  verified=True 
+       |H|= 3  5362 usable  build 607s  600s x4  best   343  next>356: 357  verified=True 
+       |H|= 2  6844 usable  build 610s  600s x4  best   354  next>356: 357  verified=True 
+       |H|= 2  6335 usable  build 609s  600s x4  best   316  next>356: 357  verified=True 
+  DIAG |H|= 2  7187 usable  build 612s  600s x4  best   345  next>356: 357  verified=True 
+       |H|= 2  8190 usable  build 614s  600s x4  best   346  next>356: 358  verified=True 
+  DIAG |H|= 2  7530 usable  build 612s  600s x4  best   340  next>356: 358  verified=True 
+       |H|= 1 16384 usable  build 644s  600s x4  best   348  next>356: 357  verified=True 
+
+best overall: 355  target 356

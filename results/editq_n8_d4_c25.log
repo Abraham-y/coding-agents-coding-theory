@@ -1,0 +1,7 @@
+class 25: |H|=4 DIAG 16292 usable, 22507353 edges, sizes {4: 16292}, next>176: 180, build 0s  |H|=4 DIAGONAL [proj|S4|=4] gen~(1, 0, 3, 2)
+  by seed [176, 180]  (iters best seed 132928)
+  best 180  verify_edit4=True size=180   lev-bad-pairs=0
+  *** 180 > record 176: saved <REPO>/best/editq_n8_d4_size180_class25.txt sha256=d6fcaa82ccd87436ae3d17e22302d8d146e1374b3c2227a69b1c67996727e223
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 180  record 176  log <REPO>/results/edit4_cmis_n8_n8d4c25_20260908T034859.json

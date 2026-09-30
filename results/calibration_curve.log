@@ -1,0 +1,6 @@
+calibration cell (trivial = unrestricted problem), REPAIRED operator
+budget(core-min)  best   seeds
+             6    109   3x120s
+            15    109   3x300s
+            20    109   4x300s
+            60    110   4x900s

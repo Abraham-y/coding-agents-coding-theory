@@ -1,0 +1,49 @@
+{
+  "k": 2,
+  "alpha_numerator": 24,
+  "alpha_denominator": 7,
+  "alpha_str": "24/7",
+  "published": "24/7",
+  "matches_published": true,
+  "base_float_display_only": 2.540061724867322,
+  "num_hard_inputs": 81,
+  "elapsed_seconds": 4.39,
+  "iterations": [
+    {
+      "iter": 0,
+      "alpha_in": "0",
+      "rho": "1",
+      "Pq": "4",
+      "Pm": "2/3",
+      "alpha_out": "3/2",
+      "states": 13141
+    },
+    {
+      "iter": 1,
+      "alpha_in": "3/2",
+      "rho": "23/54",
+      "Pq": "4",
+      "Pm": "31/81",
+      "alpha_out": "81/31",
+      "states": 13141
+    },
+    {
+      "iter": 2,
+      "alpha_in": "81/31",
+      "rho": "118/837",
+      "Pq": "64/27",
+      "Pm": "14/81",
+      "alpha_out": "24/7",
+      "states": 13141
+    },
+    {
+      "iter": 3,
+      "alpha_in": "24/7",
+      "rho": "0",
+      "Pq": "64/27",
+      "Pm": "14/81",
+      "alpha_out": "24/7",
+      "states": 13141
+    }
+  ]
+}

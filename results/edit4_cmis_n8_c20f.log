@@ -1,0 +1,7 @@
+class 20: |H|=4 prod 16381 usable, 2951295 edges, sizes {4: 16381}, next>1132: 1136, build 0s  |H|=4 product [proj|S4|=4] gen~(1, 0, 3, 2)
+  by seed [1128, 1140, 1136, 1140]  (iters best seed 424960)
+  best 1140  verify_edit4=True size=1140   lev-bad-pairs=0
+  *** 1140 > record 1132: saved <REPO>/best/edit4_n8_cmis_size1140_class20.txt sha256=4d605fd029b4d6cf5b7ca8eb45de8e88933e6b4949130358ec90a6bf0199dd39
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 1140  record 1132  log <REPO>/results/edit4_cmis_n8_n8c20f_20260908T131438.json

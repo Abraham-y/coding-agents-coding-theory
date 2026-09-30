@@ -1,0 +1,5 @@
+G(9,2): 512 vertices, 54895 edges
+float theta (NOT a result, NOT floorable): 11.768925
+certified exact dual value : 471157/40000 (= 11.778925)
+CERTIFIED: A_2(9) <= 11
+elapsed 24238.51s  log <REPO>/results/theta_n9_s2.json

@@ -1,0 +1,53 @@
+{
+  "k": 3,
+  "alpha_str": "12231/2203",
+  "alpha_numerator": 12231,
+  "alpha_denominator": 2203,
+  "published": "12231/2203",
+  "matches_published": true,
+  "base_float_display_only": 2.5647429832539506,
+  "canonical_states": 222110,
+  "elapsed_seconds": 455.13,
+  "iterations": [
+    {
+      "iter": 0,
+      "alpha_in": "0",
+      "rho": "1",
+      "Pq": "8",
+      "Pm": "2/3",
+      "alpha_out": "3/2",
+      "states": 222110,
+      "seconds": 202.4
+    },
+    {
+      "iter": 1,
+      "alpha_in": "3/2",
+      "rho": "4274/6561",
+      "Pq": "8",
+      "Pm": "4574/19683",
+      "alpha_out": "19683/4574",
+      "states": 222110,
+      "seconds": 87.2
+    },
+    {
+      "iter": 2,
+      "alpha_in": "19683/4574",
+      "rho": "155345/1111482",
+      "Pq": "1208/243",
+      "Pm": "2203/19683",
+      "alpha_out": "12231/2203",
+      "states": 222110,
+      "seconds": 81.3
+    },
+    {
+      "iter": 3,
+      "alpha_in": "12231/2203",
+      "rho": "0",
+      "Pq": "1208/243",
+      "Pm": "2203/19683",
+      "alpha_out": "12231/2203",
+      "states": 222110,
+      "seconds": 84.2
+    }
+  ]
+}

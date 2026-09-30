@@ -1,0 +1,7 @@
+class 27: |H|=2 prod 6844 usable, 760200 edges, sizes {1: 256, 2: 6588}, next>356: 357, build 1s  |H|=2 product [proj|S4|=1, rev] gen~(0, 1, 2, 3)+rev
+  by seed [357, 357, 358, 358, 356, 357]  (iters best seed 567552)
+  best 358  verify_edit4=True size=358   lev-bad-pairs=0
+  *** 358 > record 356: saved <REPO>/best/edit4_n7_cmis_size358.txt sha256=15d24be2c944dd8cf818d7b0ce09624a8c30b1b06b43ed89632abeffd36206c0
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 358  record 356  log <REPO>/results/edit4_cmis_n7_n7c27b_20260907T170423.json

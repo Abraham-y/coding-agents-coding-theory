@@ -1,0 +1,311 @@
+		Graph
+==========================================
+IO time:			4.34302
+Filename:			edit4_n9_orbit_class21.metis
+|-Nodes:			65533
+|-Edges:			30489200
+
+		Configuration
+==========================================
+Population size:		50
+Repetitions:			50
+Time limit:			900
+---
+KaHIP mode:			0
+---
+Seed:				1
+Base imbalance:			0.03
+Random imbalance:		1
+---
+Tournament size:		2
+---
+Mutation rate:			1
+---
+Use Multiway-VC:		0
+Multiway blocks:		64
+---
+Apply all reductions:		1
+Reductions threshold:		350
+---
+Insert threshold:		150
+Pool threshold:			250
+---
+ILS iterations:			15000
+---
+No. of partitions:		10
+No. of separators:		10
+No. of k-partitions:		10
+No. of k-separators:		10
+
+block weight upper bound 34447
+Partition [Seed: 235, K: 2]
+block weight upper bound 35507
+Partition [Seed: 6140, K: 2]
+block weight upper bound 35537
+Partition [Seed: 6309, K: 2]
+block weight upper bound 35740
+Partition [Seed: 7435, K: 2]
+block weight upper bound 36018
+Partition [Seed: 8987, K: 2]
+block weight upper bound 35065
+Partition [Seed: 3678, K: 2]
+block weight upper bound 35525
+Partition [Seed: 6239, K: 2]
+block weight upper bound 35188
+Partition [Seed: 4364, K: 2]
+block weight upper bound 35491
+Partition [Seed: 6051, K: 2]
+block weight upper bound 35481
+Partition [Seed: 5993, K: 2]
+block weight upper bound 35143
+Separator [Seed: 4113, K: 2, Size: 32766]
+block weight upper bound 36047
+Separator [Seed: 9148, K: 2, Size: 32766]
+block weight upper bound 35630
+Separator [Seed: 6824, K: 2, Size: 29904]
+block weight upper bound 35737
+Separator [Seed: 7420, K: 2, Size: 29797]
+block weight upper bound 34527
+Separator [Seed: 681, K: 2, Size: 32766]
+block weight upper bound 34740
+Separator [Seed: 1865, K: 2, Size: 32766]
+block weight upper bound 34908
+Separator [Seed: 2802, K: 2, Size: 32766]
+block weight upper bound 35550
+Separator [Seed: 6382, K: 2, Size: 32766]
+block weight upper bound 35927
+Separator [Seed: 8479, K: 2, Size: 29695]
+block weight upper bound 35820
+Separator [Seed: 7886, K: 2, Size: 29714]
+block weight upper bound 1192
+Separator [Seed: 928, K: 58, Size: 64509]
+block weight upper bound 6456
+Separator [Seed: 6133, K: 11, Size: 55293]
+block weight upper bound 5538
+Separator [Seed: 8876, K: 13, Size: 59640]
+block weight upper bound 1186
+Separator [Seed: 6455, K: 60, Size: 64439]
+block weight upper bound 1156
+Separator [Seed: 4787, K: 61, Size: 64509]
+block weight upper bound 1993
+Separator [Seed: 8188, K: 36, Size: 64506]
+block weight upper bound 23774
+Separator [Seed: 7000, K: 3, Size: 25377]
+block weight upper bound 17606
+Separator [Seed: 4488, K: 4, Size: 48127]
+block weight upper bound 8620
+Separator [Seed: 432, K: 8, Size: 57341]
+block weight upper bound 2672
+Separator [Seed: 1873, K: 26, Size: 62781]
+0		Initial		679	679	148.658
+0		Initial		859	859	149.281
+0		Initial		866	866	150.457
+0		Initial		867	867	157.311
+
+Round:				1
+Best solution:			867
+Time:				161.51
+
+1		Vertex cover	908	908	163.849
+3		Multiway	916	916	167.762
+10		Node separator	917	917	182.297
+13		Node separator	920	920	187.202
+20		Multiway	922	922	200.394
+
+Round:				2
+Best solution:			922
+Time:				250.625
+
+
+Round:				3
+Best solution:			922
+Time:				339.219
+
+103		Multiway	927	927	347.265
+
+Round:				4
+Best solution:			927
+Time:				438.673
+
+
+Round:				5
+Best solution:			927
+Time:				479.518
+
+
+Round:				6
+Best solution:			927
+Time:				524.495
+
+
+Round:				7
+Best solution:			927
+Time:				577.239
+
+
+Round:				8
+Best solution:			927
+Time:				628.251
+
+
+Round:				9
+Best solution:			927
+Time:				669.446
+
+block weight upper bound 35307
+Partition [Seed: 5028, K: 2]
+block weight upper bound 35663
+Partition [Seed: 7008, K: 2]
+block weight upper bound 35286
+Partition [Seed: 4910, K: 2]
+block weight upper bound 36120
+Partition [Seed: 9557, K: 2]
+block weight upper bound 34822
+Partition [Seed: 2324, K: 2]
+block weight upper bound 35824
+Partition [Seed: 7907, K: 2]
+block weight upper bound 35885
+Partition [Seed: 8246, K: 2]
+block weight upper bound 34581
+Partition [Seed: 984, K: 2]
+block weight upper bound 35226
+Partition [Seed: 4573, K: 2]
+block weight upper bound 35915
+Partition [Seed: 8411, K: 2]
+block weight upper bound 35677
+Separator [Seed: 7085, K: 2, Size: 32766]
+block weight upper bound 35670
+Separator [Seed: 7047, K: 2, Size: 29864]
+block weight upper bound 34735
+Separator [Seed: 1838, K: 2, Size: 30799]
+block weight upper bound 34496
+Separator [Seed: 505, K: 2, Size: 32766]
+block weight upper bound 34610
+Separator [Seed: 1142, K: 2, Size: 30924]
+block weight upper bound 35472
+Separator [Seed: 5945, K: 2, Size: 30062]
+block weight upper bound 34685
+Separator [Seed: 1561, K: 2, Size: 32766]
+block weight upper bound 35233
+Separator [Seed: 4612, K: 2, Size: 32766]
+block weight upper bound 35115
+Separator [Seed: 3955, K: 2, Size: 32766]
+block weight upper bound 34916
+Separator [Seed: 2846, K: 2, Size: 32766]
+block weight upper bound 1155
+Separator [Seed: 1360, K: 60, Size: 64379]
+block weight upper bound 1601
+Separator [Seed: 8980, K: 45, Size: 63997]
+block weight upper bound 1422
+Separator [Seed: 2357, K: 49, Size: 64279]
+block weight upper bound 1385
+Separator [Seed: 5145, K: 51, Size: 63998]
+block weight upper bound 1301
+Separator [Seed: 4059, K: 54, Size: 64232]
+block weight upper bound 7072
+Separator [Seed: 5325, K: 10, Size: 58462]
+block weight upper bound 1214
+Separator [Seed: 4481, K: 58, Size: 64509]
+block weight upper bound 4084
+Separator [Seed: 1743, K: 17, Size: 63957]
+block weight upper bound 1711
+Separator [Seed: 8416, K: 42, Size: 64230]
+block weight upper bound 1950
+Separator [Seed: 9227, K: 37, Size: 63482]
+
+Round:				10
+Best solution:			927
+Time:				888.309
+
+block weight upper bound 22794
+Partition [Seed: 6308, K: 2]
+block weight upper bound 22790
+Partition [Seed: 6276, K: 2]
+block weight upper bound 22791
+Partition [Seed: 6284, K: 2]
+block weight upper bound 22377
+Partition [Seed: 2690, K: 2]
+block weight upper bound 22149
+Partition [Seed: 711, K: 2]
+block weight upper bound 22950
+Partition [Seed: 7667, K: 2]
+block weight upper bound 22558
+Partition [Seed: 4265, K: 2]
+block weight upper bound 22685
+Partition [Seed: 5360, K: 2]
+block weight upper bound 23026
+Partition [Seed: 8326, K: 2]
+block weight upper bound 22714
+Partition [Seed: 5616, K: 2]
+block weight upper bound 22145
+Separator [Seed: 675, K: 2, Size: 20138]
+block weight upper bound 22501
+Separator [Seed: 3768, K: 2, Size: 20099]
+block weight upper bound 22131
+Separator [Seed: 551, K: 2, Size: 20099]
+block weight upper bound 22422
+Separator [Seed: 3080, K: 2, Size: 20099]
+block weight upper bound 22131
+Separator [Seed: 556, K: 2, Size: 20099]
+block weight upper bound 23131
+Separator [Seed: 9239, K: 2, Size: 20099]
+block weight upper bound 22521
+Separator [Seed: 3937, K: 2, Size: 20099]
+block weight upper bound 22217
+Separator [Seed: 1296, K: 2, Size: 20429]
+block weight upper bound 23033
+Separator [Seed: 8390, K: 2, Size: 20023]
+block weight upper bound 22674
+Separator [Seed: 5270, K: 2, Size: 20023]
+block weight upper bound 883
+Separator [Seed: 50, K: 50, Size: 41052]
+block weight upper bound 932
+Separator [Seed: 2746, K: 48, Size: 41111]
+block weight upper bound 1269
+Separator [Seed: 6714, K: 36, Size: 40579]
+block weight upper bound 724
+Separator [Seed: 9643, K: 64, Size: 41433]
+block weight upper bound 1008
+Separator [Seed: 5125, K: 45, Size: 40872]
+block weight upper bound 1699
+Separator [Seed: 151, K: 26, Size: 41468]
+block weight upper bound 1016
+Separator [Seed: 2343, K: 44, Size: 40951]
+block weight upper bound 23188
+Separator [Seed: 9730, K: 2, Size: 20099]
+block weight upper bound 926
+Separator [Seed: 9336, K: 50, Size: 41130]
+block weight upper bound 1338
+Separator [Seed: 129, K: 33, Size: 40821]
+
+Round:				11
+Best solution:			861
+Time:				1017.44
+
+457		Combine reduction	822	928	1019.49
+
+		Statistics
+==========================================
+Total time:			1024.06
+Evolution time:			1019.71
+Number of rounds:		11
+Number of repetitions:		457
+
+Operator	Times selected	Improvements	Avg. time	Avg. improv
+--------------------------------------------------------------------------------
+Vertex cover	258		1		1.30573	41
+Node separator	111		2		1.08559	2
+Multiway	88		3		1.29126	5
+
+		Best
+==========================================
+Size:				928
+Time found:			1019.49
+Operator:			Combine reduction
+Repetition number:		457
+Round number:			11
+
+writing independent set to results/redumis/n9_c21_s1.mis ... 
+checking solution ...
+done ...
+Independent set has size 928

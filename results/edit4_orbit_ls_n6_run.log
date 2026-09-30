@@ -1,0 +1,113 @@
+Edit4 G(6): 4096 vertices, 21500 cliques (0.1s)
+
+15 cells never attempted by the MILP sweep (exact_cap=900). W-H best known 113, literature best 114.
+
+  |H|=1  gens=[(0, 1, 2, 3)]
+      seed 1    weight   95  (92720 ILS iterations)
+      seed 2    weight   99  (91492 ILS iterations)
+      seed 3    weight   97  (90889 ILS iterations)
+      4096 orbits (4096 usable), 392358 edges, build 1.0s
+      -> invariant code 99   verified=True 
+
+  |H|=1+rev  gens=[(0, 1, 2, 3)]
+      seed 1    weight   98  (204219 ILS iterations)
+      seed 2    weight  100  (203799 ILS iterations)
+      seed 3    weight   94  (191874 ILS iterations)
+      2080 orbits (1498 usable), 104874 edges, build 0.2s
+      -> invariant code 100   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (3, 2, 1, 0)]
+      seed 1    weight   98  (81840 ILS iterations)
+      seed 2    weight   98  (82346 ILS iterations)
+      seed 3    weight   96  (79187 ILS iterations)
+      2048 orbits (2046 usable), 195224 edges, build 0.3s
+      -> invariant code 98   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (0, 1, 3, 2)]
+      seed 1    weight   82  (126658 ILS iterations)
+      seed 2    weight   84  (135330 ILS iterations)
+      seed 3    weight   88  (135439 ILS iterations)
+      2080 orbits (1359 usable), 96182 edges, build 0.3s
+      -> invariant code 88   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (3, 1, 2, 0)]
+      seed 1    weight   84  (139633 ILS iterations)
+      seed 2    weight   84  (128684 ILS iterations)
+      seed 3    weight   87  (128894 ILS iterations)
+      2080 orbits (1359 usable), 96182 edges, build 0.2s
+      -> invariant code 87   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (0, 2, 1, 3)]
+      seed 1    weight   86  (149199 ILS iterations)
+      seed 2    weight   86  (135091 ILS iterations)
+      seed 3    weight   84  (93137 ILS iterations)
+      2080 orbits (1359 usable), 96182 edges, build 0.2s
+      -> invariant code 86   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (1, 0, 3, 2)]
+      seed 1    weight   94  (16593 ILS iterations)
+      seed 2    weight   96  (18124 ILS iterations)
+      seed 3    weight   96  (13094 ILS iterations)
+      2048 orbits (2046 usable), 195224 edges, build 0.6s
+      -> invariant code 96   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (0, 3, 2, 1)]
+      seed 1    weight   82  (21269 ILS iterations)
+      seed 2    weight   84  (25896 ILS iterations)
+      seed 3    weight   83  (59870 ILS iterations)
+      2080 orbits (1359 usable), 96182 edges, build 0.1s
+      -> invariant code 84   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (2, 1, 0, 3)]
+      seed 1    weight   88  (35755 ILS iterations)
+      seed 2    weight   80  (7277 ILS iterations)
+      seed 3    weight   85  (56412 ILS iterations)
+      2080 orbits (1359 usable), 96182 edges, build 0.5s
+      -> invariant code 88   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (2, 3, 0, 1)]
+      seed 1    weight   92  (2789 ILS iterations)
+      seed 2    weight   94  (3589 ILS iterations)
+      seed 3    weight   98  (2876 ILS iterations)
+      2048 orbits (2046 usable), 195224 edges, build 1.0s
+      -> invariant code 98   verified=True 
+
+  |H|=2  gens=[(0, 1, 2, 3), (1, 0, 2, 3)]
+      seed 1    weight   82  (25118 ILS iterations)
+      seed 2    weight   83  (5654 ILS iterations)
+      seed 3    weight   82  (26462 ILS iterations)
+      2080 orbits (1359 usable), 96182 edges, build 0.3s
+      -> invariant code 83   verified=True 
+
+  |H|=3  gens=[(0, 1, 2, 3), (0, 2, 3, 1), (0, 3, 1, 2)]
+      seed 1    weight   94  (4716 ILS iterations)
+      seed 2    weight   97  (53961 ILS iterations)
+      seed 3    weight  100  (23654 ILS iterations)
+      1366 orbits (1295 usable), 115814 edges, build 0.3s
+      -> invariant code 100   verified=True 
+
+  |H|=3  gens=[(0, 1, 2, 3), (2, 1, 3, 0), (3, 1, 0, 2)]
+      seed 1    weight   97  (17339 ILS iterations)
+      seed 2    weight   97  (5144 ILS iterations)
+      seed 3    weight   97  (24840 ILS iterations)
+      1366 orbits (1295 usable), 115814 edges, build 0.5s
+      -> invariant code 97   verified=True 
+
+  |H|=3  gens=[(0, 1, 2, 3), (1, 2, 0, 3), (2, 0, 1, 3)]
+      seed 1    weight   94  (4895 ILS iterations)
+      seed 2    weight   97  (26533 ILS iterations)
+      seed 3    weight   94  (5500 ILS iterations)
+      1366 orbits (1295 usable), 115814 edges, build 0.4s
+      -> invariant code 97   verified=True 
+
+  |H|=3  gens=[(0, 1, 2, 3), (1, 3, 2, 0), (3, 0, 2, 1)]
+      seed 1    weight   94  (4951 ILS iterations)
+      seed 2    weight   94  (5472 ILS iterations)
+      seed 3    weight   97  (26974 ILS iterations)
+      1366 orbits (1295 usable), 115814 edges, build 0.2s
+      -> invariant code 97   verified=True 
+
+best over never-attempted cells : 100  (|H|=1+rev)
+W-H Table 3 best known          : 113
+literature best known           : 114 (Ashlock-Houghten 2012)
+log: <REPO>/results/edit4_orbit_ls_n6_20260813T190813.json

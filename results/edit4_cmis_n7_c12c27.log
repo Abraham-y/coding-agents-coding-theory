@@ -1,0 +1,10 @@
+class 12: |H|=8 DIAG 1554 usable, 153612 edges, sizes {4: 63, 8: 1491}, next>356: 360, build 0s  |H|=8 DIAGONAL [proj|S4|=8] gen~(0, 1, 3, 2)+rev
+  by seed [356, 356]  (iters best seed 2117952)
+  best 356  verify_edit4=True size=356   lev-bad-pairs=0
+class 27: |H|=2 prod 6844 usable, 760200 edges, sizes {1: 256, 2: 6588}, next>356: 357, build 1s  |H|=2 product [proj|S4|=1, rev] gen~(0, 1, 2, 3)+rev
+  by seed [359, 355]  (iters best seed 998272)
+  best 359  verify_edit4=True size=359   lev-bad-pairs=0
+  *** 359 > record 356: saved <REPO>/best/edit4_n7_cmis_size359.txt sha256=c45d36c5cab37fff1947853beb5749dc609963fa73d68dffd462fdd8243e6012
+      CLAUDE.md rule 6: treat as a bug until verify.py passes in a fresh process
+
+best overall 359  record 356  log <REPO>/results/edit4_cmis_n7_n7c12c27_20260907T163452.json

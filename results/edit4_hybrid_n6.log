@@ -1,0 +1,10 @@
+extracting proven-optimal A_4-invariant code...
+A_4 code: size=112, proven_opt_in_class=True, verify=True 
+symmetric artifact: <REPO>/best/edit4_n6_A4invariant_112.txt
+seed 40: size=112 verify=True
+seed 41: size=112 verify=True
+seed 42: size=112 verify=True
+seed 43: size=112 verify=True
+seed 44: size=112 verify=True
+seed 45: size=112 verify=True
+BEST HYBRID: 112  (published best known: 113)

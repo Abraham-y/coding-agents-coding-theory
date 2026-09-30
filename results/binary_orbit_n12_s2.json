@@ -1,0 +1,59 @@
+{
+  "n": 12,
+  "s": 2,
+  "target": 37,
+  "cells": [
+    {
+      "group": "comp=True rev=True (|G|=4)",
+      "usable": 338,
+      "best": 34,
+      "by_seed": [
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34
+      ],
+      "verified": true
+    },
+    {
+      "group": "comp=True rev=False (|G|=2)",
+      "usable": 2011,
+      "best": 36,
+      "by_seed": [
+        36,
+        36,
+        36,
+        36,
+        36,
+        36,
+        36,
+        36
+      ],
+      "verified": true
+    },
+    {
+      "group": "comp=False rev=True (|G|=2)",
+      "usable": 1156,
+      "best": 36,
+      "by_seed": [
+        36,
+        35,
+        35,
+        35,
+        35,
+        35,
+        35,
+        35
+      ],
+      "verified": true
+    }
+  ],
+  "best": 36,
+  "seeds": 8,
+  "seconds": 600.0,
+  "elapsed_seconds": 3974.2
+}

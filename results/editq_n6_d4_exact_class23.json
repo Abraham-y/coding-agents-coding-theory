@@ -1,0 +1,21 @@
+{
+  "graph": "results/cmis_tmp/editq_n6_d4_class23.txt",
+  "k": 518,
+  "m": 92407,
+  "optimum_weight": 30,
+  "selected": [
+    26,
+    46,
+    93,
+    231,
+    304,
+    346,
+    363,
+    466,
+    468,
+    510,
+    514
+  ],
+  "seconds": 21.2,
+  "violations": 0
+}
