@@ -1,6 +1,6 @@
 # Supplementary material for "Coding Agents for Coding Theory"
 
-Companion code and data for the NeurIPS 2026 MATH-AI workshop paper. MIT licensed (see LICENSE).
+Companion code and data for the NeurIPS 2026 MATH-AI workshop paper, [arXiv:2609.39081](https://arxiv.org/abs/2609.39081). MIT licensed (see LICENSE).
 
 Everything needed to check the paper's claims. No network access required.
 
@@ -53,3 +53,17 @@ checked certificate.
 paper (recursive-majority constants, Lovasz theta bounds). Those extra suites
 need the optional dependencies in requirements.txt; without them they fail on
 import, which is expected and does not affect any claim in the paper.
+
+## Citation
+
+```bibtex
+@misc{yeung2026codingagents,
+  title         = {Coding Agents for Coding Theory},
+  author        = {Yeung, Abraham},
+  year          = {2026},
+  eprint        = {2609.39081},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.IT},
+  note          = {6th Workshop on Mathematical Reasoning and AI (MATH-AI), NeurIPS 2026}
+}
+```
