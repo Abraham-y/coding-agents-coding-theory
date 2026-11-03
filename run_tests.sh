@@ -67,6 +67,7 @@ run "edit-metric verifier: accept/reject + differential Levenshtein" $PY tests/t
 run "GROUND-TRUTH edit verifiers: accept/reject/agreement" \
     "$PY" tests/test_groundtruth_edit.py
 run "general-d edit verifiers (verify_editq, verify_editq2): accept/reject/agreement" $PY tests/test_editq_verify.py
+run "q = 2, 3 edit artifacts: verify.py vs verify_editq vs verify_editq2" $PY tests/test_agreement_q.py
 
 if [ "$FULL" = "1" ]; then
   echo

@@ -1,0 +1,187 @@
+{
+  "suite": "tests/test_verify_big2.py",
+  "date_utc": "2026-11-03T11:11:16+00:00",
+  "git_head": "0fa9d26677629b20ea289b916867e0da3bd42eb5",
+  "verify_big2_c_sha256": "610b0df8dcf25432a9b9ebf276db31b372e53f526c47134fdfcdd185dbe26cdb",
+  "build": "cc -O3 -o verify_big2 verify_big2.c -lpthread",
+  "machine": {
+    "platform": "macOS-27.2-arm64-arm-64bit",
+    "machine": "arm64",
+    "python": "3.12.2"
+  },
+  "seed": 20261009,
+  "counts": {
+    "other": 226,
+    "accept": 167,
+    "reject": 1088,
+    "refuse": 37
+  },
+  "counts_by_kind": {
+    "accept:best": 52,
+    "accept:bruteforce_at_dmin": 17,
+    "accept:bruteforce_below_dmin": 17,
+    "accept:format_blank_trailing": 1,
+    "accept:format_crlf": 1,
+    "accept:format_header_style": 1,
+    "accept:format_no_final_newline": 1,
+    "accept:format_single_word": 1,
+    "accept:header_equals_option": 1,
+    "accept:random_valid": 72,
+    "accept:scaling_full_100000": 1,
+    "accept:scaling_full_20000": 1,
+    "accept:scaling_full_50000": 1,
+    "other:header_sha": 50,
+    "other:reference_confirms_valid": 32,
+    "other:reference_dp": 8,
+    "other:scaling_threads_1_vs_2": 1,
+    "other:selftest": 1,
+    "other:threads_1_vs_2": 134,
+    "refuse:conflict_d_headers": 1,
+    "refuse:conflict_d_option": 1,
+    "refuse:conflict_n_headers": 1,
+    "refuse:conflict_n_option": 1,
+    "refuse:d_negative_option": 1,
+    "refuse:d_not_integer": 1,
+    "refuse:d_option_no_value": 1,
+    "refuse:d_zero_header": 1,
+    "refuse:d_zero_option": 1,
+    "refuse:missing_d": 1,
+    "refuse:missing_d_real": 15,
+    "refuse:missing_file": 1,
+    "refuse:missing_n": 1,
+    "refuse:missing_n_and_d": 1,
+    "refuse:missing_n_real": 2,
+    "refuse:n_too_large": 1,
+    "refuse:n_trailing_junk": 1,
+    "refuse:n_zero": 1,
+    "refuse:q_not_4": 1,
+    "refuse:threads_3": 1,
+    "refuse:two_paths": 1,
+    "refuse:unknown_option": 1,
+    "reject:d_plus_1_header": 69,
+    "reject:d_plus_1_option": 69,
+    "reject:duplicate_append": 69,
+    "reject:duplicate_replace": 69,
+    "reject:format_leading_space": 1,
+    "reject:format_leading_space_long": 1,
+    "reject:length_long": 69,
+    "reject:length_short": 69,
+    "reject:near_indel": 67,
+    "reject:near_sub": 69,
+    "reject:random_invalid": 328,
+    "reject:scaling_random_100k_d3": 1,
+    "reject:symbol_4": 69,
+    "reject:symbol_space": 69,
+    "reject:symbol_x": 69
+  },
+  "failures": [],
+  "passed": true,
+  "section_seconds": {
+    "best": 1864.1317027909972,
+    "bruteforce": 2.72364604199538,
+    "random": 3.4454822080151644,
+    "format_and_refuse": 0.1659982909914106,
+    "scaling": 45.461650292010745
+  },
+  "total_seconds": 1921.192782500002,
+  "scaling": {
+    "seed": 20261010,
+    "n": 12,
+    "threads": 2,
+    "load_avg_before": [
+      3.28271484375,
+      3.373046875,
+      5.5498046875
+    ],
+    "power_before": {
+      "source": "Now drawing from 'Battery Power'",
+      "lowpowermode": 1
+    },
+    "note": "wall_seconds is time.perf_counter() around the subprocess (on macOS it does not advance while the system sleeps); cpu_seconds is the child's user+sys time summed over both threads.  A 2-thread wall-clock rate is trusted only when cpu/wall >= 1.8.",
+    "random_100k_d3": {
+      "exit": 1,
+      "rejected_as_expected": true,
+      "first_violating_lines": "4 16581",
+      "first_violating_distance": "2",
+      "pairs_checked": 34669,
+      "binary_seconds": 0.028,
+      "wall_seconds": 0.03467233298579231,
+      "cpu_seconds": 0.030799999999999272
+    },
+    "full_runs_d1": {
+      "20000": {
+        "words": 20000,
+        "pairs": 199990000,
+        "exit": 0,
+        "pairs_checked": 199990000,
+        "binary_seconds": 1.308,
+        "wall_seconds": 1.31364200002281,
+        "cpu_seconds": 2.613115000000107,
+        "pairs_per_wall_second": 152240869.27528763,
+        "pairs_per_cpu_second": 76533179.74907029,
+        "cpu_over_wall": 1.9892139562793616,
+        "wall_reliable": true,
+        "one_thread": {
+          "pairs_checked": 199990000,
+          "binary_seconds": 2.609,
+          "wall_seconds": 2.61503920899122,
+          "cpu_seconds": 2.6108600000002298,
+          "pairs_per_wall_second": 76476864.78748757,
+          "pairs_per_cpu_second": 76599281.46280628,
+          "cpu_over_wall": 0.9984018560881913
+        }
+      },
+      "50000": {
+        "words": 50000,
+        "pairs": 1249975000,
+        "exit": 0,
+        "pairs_checked": 1249975000,
+        "binary_seconds": 8.175,
+        "wall_seconds": 8.18127691699192,
+        "cpu_seconds": 16.33019699999977,
+        "pairs_per_wall_second": 152784829.6399664,
+        "pairs_per_cpu_second": 76543779.60045537,
+        "cpu_over_wall": 1.9960450142059285,
+        "wall_reliable": true
+      },
+      "100000": {
+        "words": 100000,
+        "pairs": 4999950000,
+        "exit": 0,
+        "pairs_checked": 4999950000,
+        "binary_seconds": 32.737,
+        "wall_seconds": 32.74457270800485,
+        "cpu_seconds": 65.223884,
+        "pairs_per_wall_second": 152695533.53425482,
+        "pairs_per_cpu_second": 76658268.31165099,
+        "cpu_over_wall": 1.9918990723019923,
+        "wall_reliable": true
+      }
+    },
+    "extrapolation": {
+      "from_words": 100000,
+      "two_thread_rate_from_cpu_time": 153316536.62330198,
+      "two_thread_rate_from_wall_time": 152695533.53425482,
+      "assumption": "2-thread rate = 2 x pairs per CPU-second (perfect 2-way split)",
+      "seconds": {
+        "100000": {
+          "from_cpu_rate": 32.611942,
+          "from_wall_rate": 32.74457270800485
+        },
+        "200000": {
+          "from_cpu_rate": 130.44842024536246,
+          "from_wall_rate": 130.97894573002256
+        }
+      }
+    },
+    "load_avg_after": [
+      3.029296875,
+      3.28857421875,
+      5.404296875
+    ],
+    "power_after": {
+      "source": "Now drawing from 'Battery Power'",
+      "lowpowermode": 1
+    }
+  }
+}
